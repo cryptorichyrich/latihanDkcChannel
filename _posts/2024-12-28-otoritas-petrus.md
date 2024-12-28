@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Otoritasnya Petrus
-tags: [Sejarah, Katolik, Dogma, Paus]
+tags: [Sejarah, Katolik, Dogma, Paus, Tradisi]
 comments: true
 
 cover-img: /assets/img/peter-authority.png

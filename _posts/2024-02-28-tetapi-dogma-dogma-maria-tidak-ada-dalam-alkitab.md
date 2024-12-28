@@ -2,7 +2,7 @@
 layout: post
 title: Tetapi Dogma-dogma Maria Tidak Ada dalam Alkitab!
 subtitle: Jika hanya ada sedikit bukti Alkitabiah untuk doktrin-doktrin ini, mengapa Gereja mempromosikannya?
-tags: [Katolik, Sejarah, Dogma]
+tags: [Katolik, Sejarah, Dogma, Maria]
 comments: true
 
 cover-img: /assets/img/mary-dogma.png
