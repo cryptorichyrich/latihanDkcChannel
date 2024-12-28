@@ -24,8 +24,8 @@ Damai Kasih Channel mencakup dialog dan tanggapan terhadap berbagai denominasi, 
 ## Hubungi Kami  
 Kami selalu terbuka untuk komunikasi dan kolaborasi. Silakan hubungi kami melalui:  
 - **Email**: [ignatius.erick29@gmail.com](mailto:ignatius.erick29@gmail.com)  
-- **Youtube**: [@damaiKasihChannel](https://www.youtube.com/@damaikasihchannel9153)  
-- **Tiktok**: [@damaiKasihChannel](https://www.tiktok.com/@dkc_team.apologetik)  
+- **Youtube**: [@damaikasihchannel9153](https://www.youtube.com/@damaikasihchannel9153)  
+- **Tiktok**: [@dkc_team.apologetik](https://www.tiktok.com/@dkc_team.apologetik)  
 - **Instagram**: [@damaiKasihChannel](https://www.instagram.com/damaikasihchannel/)  
 
 ## Ucapan Terima Kasih  
