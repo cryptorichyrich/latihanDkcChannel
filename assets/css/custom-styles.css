@@ -66,12 +66,80 @@
   }
 
   #search-results-container a{
-    color:var(--navbar-text-col) !important;
+    color:var(--navbar-text-col) !important;    
   }
-
+  #search-results-container{
+    margin:auto;
+  }
 .btn-whatsapp{color:#000;background-color:#168e00;border-color:rgba(0,0,0,0.2)}.btn-whatsapp:focus,.btn-whatsapp.focus{color:#000;background-color:#bcddff;border-color:rgba(0,0,0,0.2)}
 .btn-whatsapp:hover{color:#000;background-color:#398c2a;border-color:rgba(0,0,0,0.2)}
 .btn-whatsapp:active,.btn-whatsapp.active,.open>.dropdown-toggle.btn-whatsapp{color:#000;background-color:#bcddff;border-color:rgba(0,0,0,0.2)}.btn-whatsapp:active:hover,.btn-whatsapp.active:hover,.open>.dropdown-toggle.btn-whatsapp:hover,.btn-whatsapp:active:focus,.btn-whatsapp.active:focus,.open>.dropdown-toggle.btn-whatsapp:focus,.btn-whatsapp:active.focus,.btn-whatsapp.active.focus,.open>.dropdown-toggle.btn-whatsapp.focus{color:#000;background-color:#98ccff;border-color:rgba(0,0,0,0.2)}
 .btn-whatsapp:active,.btn-whatsapp.active,.open>.dropdown-toggle.btn-whatsapp{background-image:none}
 .btn-whatsapp.disabled,.btn-whatsapp[disabled],fieldset[disabled] .btn-whatsapp,.btn-whatsapp.disabled:hover,.btn-whatsapp[disabled]:hover,fieldset[disabled] .btn-whatsapp:hover,.btn-whatsapp.disabled:focus,.btn-whatsapp[disabled]:focus,fieldset[disabled] .btn-whatsapp:focus,.btn-whatsapp.disabled.focus,.btn-whatsapp[disabled].focus,fieldset[disabled] .btn-whatsapp.focus,.btn-whatsapp.disabled:active,.btn-whatsapp[disabled]:active,fieldset[disabled] .btn-whatsapp:active,.btn-whatsapp.disabled.active,.btn-whatsapp[disabled].active,fieldset[disabled] .btn-whatsapp.active{background-color:#eff7ff;border-color:rgba(0,0,0,0.2)}
 .btn-whatsapp .badge{color:#eff7ff;background-color:#000}
+
+#beautifuljekyll-search-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 1050;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#beautifuljekyll-search-overlay input {
+  width: 80%;
+  max-width: 600px;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px 4px 0 0; /* Rounded corners only on the top */
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Ensure it stays above the results */
+}
+
+#beautifuljekyll-search-overlay ul {
+  list-style: none;
+  padding: 0;
+  max-height: 400px;
+  overflow-y: auto;
+  width: 80%;
+  max-width: 600px;
+  background: white;
+  border-radius: 0 0 4px 4px; /* Rounded corners only on the bottom */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: calc(20% + 40px); /* Positioned right below the input */
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+#beautifuljekyll-search-overlay ul li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+#beautifuljekyll-search-overlay ul li:last-child {
+  border-bottom: none; /* Remove border on the last item */
+}
+
+#nav-search-exit {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+}
+
+.d-none {
+  display: none;
+}
