@@ -2,7 +2,7 @@
 layout: post
 title: 10 Alasan Bunda Maria juga diperuntukkan bagi kaum Evangelis dan Protestan
 subtitle: Kaum Evangelis dan Protestan arus utama dapat mengasihi Maria dan berdoa bersamanya. Berikut alasannya.
-tags: [Katolik, Dogma]
+tags: [Katolik, Dogma, Maria]
 comments: true
 
 cover-img: /assets/img/10-alasan-bunda-maria.png
