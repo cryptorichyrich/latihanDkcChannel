@@ -1,29 +1,34 @@
 ---
 layout: page
-title: About Dkc
+title: About DKC
 permalink: /about-dkc/
 ---
 
+# About DKC  
 
-# About Me  
+## Tentang Channel  
+**Damai Kasih Channel** adalah kanal pewartaan dan apologetik Iman Katolik yang bertujuan:  
+- Memberikan reaksi dan tanggapan apologetik terhadap channel Protestan dan berbagai denominasi Kristen lainnya.  
+- Melayani pembuatan video animasi, promosi produk, dan video explainer untuk kebutuhan korporat.  
+- Menyebarkan kebenaran Iman Katolik sekaligus meluruskan kesalahpahaman yang sering muncul.  
 
-## Deskripsi Channel  
-Channel Pewartaan/Apologetik Iman Katolik ini berfokus pada:  
-- Reaksi video apologetik terhadap channel Protestan dan denominasi Kristen lainnya  
-- Melayani pembuatan video animasi, promosi produk, dan explainer corporate  
-- Membagikan kebenaran iman Katolik dan membantah pembenaran yang salah  
+## Denominasi yang Dibahas  
+Damai Kasih Channel mencakup dialog dan tanggapan terhadap berbagai denominasi, termasuk:  
+- **Gereja Luteran Indonesia**  
+- **Gereja Protestan**  
+- **Gereja Karismatik**  
+- **Gereja Advent**  
+- **Gereja Baptis**  
+- **Gereja Ortodoks Indonesia**  
 
-## Denominasi yang Dicakup  
-- Gereja Luteran Indonesia  
-- Gereja Protestan  
-- Gereja Karismatik  
-- Gereja Advent  
-- Gereja Baptis  
-- Gereja Ortodoks Indonesia  
-
-## Kontak  
-- **Email**: [email](mailto:ignatius.erick29@gmail.com)  
-- **Instagram**: [(Instagram)](https://www.instagram.com/damaikasihchannel/)  
+## Hubungi Kami  
+Kami selalu terbuka untuk komunikasi dan kolaborasi. Silakan hubungi kami melalui:  
+- **Email**: [ignatius.erick29@gmail.com](mailto:ignatius.erick29@gmail.com)  
+- **Youtube**: [@damaiKasihChannel](https://www.youtube.com/@damaikasihchannel9153)  
+- **Tiktok**: [@damaiKasihChannel](https://www.tiktok.com/@dkc_team.apologetik)  
+- **Instagram**: [@damaiKasihChannel](https://www.instagram.com/damaikasihchannel/)  
 
 ## Ucapan Terima Kasih  
-**Tuhan memberkati!**  
+Kami berterima kasih atas dukungan dan perhatian Anda. Tetaplah setia dalam iman, dan semoga Tuhan selalu memberkati!  
+
+**Damai Kasih Channel** – Membawa Damai dan Kebenaran.
