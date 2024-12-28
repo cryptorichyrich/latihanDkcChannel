@@ -10,3 +10,5 @@ gem 'webrick'
 gem 'rack', '~> 2.2' # Add Rack explicitly for proper WEBrick integration
 gem 'rackup'
 gem 'bigdecimal'
+
+gem "jekyll-minifier", "~> 0.1.10"
