@@ -88,7 +88,7 @@ Kita dapat menghormati Maria, Tabut Perjanjian _**Baru**_, sebagaimana orang-ora
 7\. Maria adalah wajah asli feminisme modern
 -------------------------------------------------
 
-Ia berkata "ya" kepada Roh Kudus tanpa meminta izin dari Yusuf atau orang tuanya, yang keduanya sangat terpengaruh. Ia percaya bahwa semuanya akan berhasil, dan berkat pesan Malaikat Jibril kepada Yusuf, semuanya berhasil. (Mat 1:18-25) Ia tangguh, memiliki daya tahan, rendah hati tetapi kuat. Ia tunduk tetapi tetap setia.
+Ia berkata "ya" kepada Roh Kudus tanpa meminta izin dari Yusuf atau orang tuanya, yang keduanya sangat terpengaruh. Ia percaya bahwa semuanya akan berhasil, dan berkat pesan Malaikat Gabriel kepada Yusuf, semuanya berhasil. (Mat 1:18-25) Ia tangguh, memiliki daya tahan, rendah hati tetapi kuat. Ia tunduk tetapi tetap setia.
 
 Beberapa wanita Kristen yang baik memiliki suami yang telah kehilangan iman atau telah murtad. Maria menunjukkan kepada para wanita bagaimana mengambil pimpinan rohani ketika Tuhan berbicara. Namun, ia tidak menentang. Ia mengikuti Yusuf ketika ia mendengar dari Tuhan, seperti ketika mereka melarikan diri ke Mesir (Mat 2:13).
 
