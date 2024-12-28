@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Dkc
-permalink: /aboutdkc/
+permalink: /aboutDkc/
 ---
 
 
