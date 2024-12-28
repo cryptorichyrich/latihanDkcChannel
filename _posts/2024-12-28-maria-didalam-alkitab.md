@@ -39,7 +39,7 @@ Alkitab menunjukkan bahwa Maria sangat aktif dalam kehidupan Gereja setelah Yesu
 
 Maria adalah seorang Kristen yang "dilahirkan kembali" yang menerima Roh Kudus pada hari Pentakosta dan berbicara dalam bahasa roh 2000 tahun sebelum kaum Pentakosta menerima karunia tersebut (Kisah Para Rasul 1:14, 2:3).
 
-Peran seorang ibu tidak berakhir dengan kelahiran seorang anak. Bahkan, saat itulah hal itu mulai menjadi intens. Maria dan Yusuf berusaha mencegah Yesus dibunuh oleh Herodes.
+Peran seorang ibu tidak berakhir dengan kelahiran seorang anak. Bahkan, saat itulah hal itu mulai menjadi intens. Maria dan Yosef berusaha mencegah Yesus dibunuh oleh Herodes.
 
 Ibu saya masih memiliki peran dalam hidup saya. Saya (David) meneleponnya sepanjang waktu. Ia memeriksa tata bahasa saya di situs web ini - meskipun ia seorang Presbiterian yang tidak taat! Ia menganggap Maria hebat! Kami mendapat email yang mengatakan:
 
@@ -133,7 +133,7 @@ Di sini, Yesus tidak mengatakan bahwa Dia tidak baik atau bahwa Dia bukan Allah.
 
 Ia berkata bahwa Maria adalah orang Kristen terbesar yang pernah hidup. Selain Yesus, yang dalam sejarah melakukan kehendak Allah dengan lebih taat daripada Maria. Dia berkata "Ya" untuk melahirkan Yesus. (Luk 1:38) Kita harus ingat bahwa Yesus selalu berbicara dalam banyak tingkatan yang berbeda. Dalam bagian ini, dia berbicara dalam tingkatan materi tentang tidak perlu makan, dia mengajar dalam tingkatan rohani dengan mengundang seluruh umat manusia untuk bergabung dengan keluarganya, dan dia menunjukkan bahwa Maria adalah murid yang paling mengagumkan karena tidak seorang pun pernah melakukan kehendak Allah lebih dari Maria yang berkata "ya."
 
-Sebagai seorang gadis berusia 15 tahun dia dengan setia berkata "Ini aku, Tuhan, hamba Tuhan; jadilah padaku menurut kehendak-Mu" (Luk 1:38) tanpa mengetahui bagaimana dia akan dipercayai dan bagaimana dia akan lolos dari hukum Yahudi untuk melempari pezina dengan batu. Dia bertunangan dengan Yusuf, cinta dalam hidupnya. Namun dia mengambil risiko kehilangan Yusuf, dan hampir kehilangannya, agar dapat berkata "ya" untuk memiliki Yesus. (Mat 1:19) Dia mengandung Juruselamat, jadi jika dia dirajam sampai mati, Yesus juga akan mati. Maka dia tidak akan memperoleh hidup kekal dan begitu pula kita. "Ya"-nya SANGATLAH BERGUNA. **Maria mengutamakan Yesus daripada Yusuf dan bahkan hidupnya sendiri. Ini terjadi bahkan sebelum Yesus dikandung dalam daging. Betapa lebih lagi dia akan mengutamakan Yesus daripada dirinya sendiri sekarang setelah Dia bangkit.**
+Sebagai seorang gadis berusia 15 tahun dia dengan setia berkata "Ini aku, Tuhan, hamba Tuhan; jadilah padaku menurut kehendak-Mu" (Luk 1:38) tanpa mengetahui bagaimana dia akan dipercayai dan bagaimana dia akan lolos dari hukum Yahudi untuk melempari pezina dengan batu. Dia bertunangan dengan Yosef, cinta dalam hidupnya. Namun dia mengambil risiko kehilangan Yosef, dan hampir kehilangannya, agar dapat berkata "ya" untuk memiliki Yesus. (Mat 1:19) Dia mengandung Juruselamat, jadi jika dia dirajam sampai mati, Yesus juga akan mati. Maka dia tidak akan memperoleh hidup kekal dan begitu pula kita. "Ya"-nya SANGATLAH BERGUNA. **Maria mengutamakan Yesus daripada Yosef dan bahkan hidupnya sendiri. Ini terjadi bahkan sebelum Yesus dikandung dalam daging. Betapa lebih lagi dia akan mengutamakan Yesus daripada dirinya sendiri sekarang setelah Dia bangkit.**
 
 Tiga belas ayat sebelum bagian Markus 3:33 ini kita menemukan jawaban atas kekhawatirannya tentang Yesus. Maria datang kepada Yesus karena dia tidak makan dengan benar. Ini akan membuat khawatir ibu mana pun.
 
@@ -163,7 +163,7 @@ Ayat lain yang sering digunakan untuk meremehkan peran Maria adalah:
 
 > "Berbahagialah ibu yang telah mengandung kamu dan buah dada yang telah menyusui kamu!" tetapi Ia berkata, "Lebih berbahagia lagi mereka yang mendengarkan firman Allah dan melakukannya." (Luk 11:27-28)
 
-Umat Katolik tidak menganggap ini sebagai meremehkan peran Maria, ini hanya berfokus pada kepatuhannya daripada fungsi keibuannya. Ini menunjukkan bahwa mukjizat nyata tentang Maria yang melahirkan Yesus adalah kepatuhannya kepada Tuhan meskipun terancam diceraikan oleh Yusuf dan dirajam dengan batu karena "berzina" (Luk 1:38).
+Umat Katolik tidak menganggap ini sebagai meremehkan peran Maria, ini hanya berfokus pada kepatuhannya daripada fungsi keibuannya. Ini menunjukkan bahwa mukjizat nyata tentang Maria yang melahirkan Yesus adalah kepatuhannya kepada Tuhan meskipun terancam diceraikan oleh Yosef dan dirajam dengan batu karena "berzina" (Luk 1:38).
 
 Bagaimana umat Katolik dapat mengatakan Maria itu Kudus?
 
