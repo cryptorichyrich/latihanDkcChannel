@@ -24,3 +24,5 @@ jobs:
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: Create CNAME file for custom domain
+        run: echo 'damaikasihchannel.com' > ./dist/CNAME        
