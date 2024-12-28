@@ -14,12 +14,12 @@ permalink: /about-dkc/
 
 ## Denominasi yang Dibahas  
 Damai Kasih Channel mencakup dialog dan tanggapan terhadap berbagai denominasi, termasuk:  
-- **Gereja Luteran Indonesia**  
-- **Gereja Protestan**  
-- **Gereja Karismatik**  
-- **Gereja Advent**  
-- **Gereja Baptis**  
-- **Gereja Ortodoks Indonesia**  
+- Gereja Luteran Indonesia 
+- Gereja Protestan  
+- Gereja Karismatik
+- Gereja Advent  
+- Gereja Baptis
+- Gereja Ortodoks Indonesia
 
 ## Hubungi Kami  
 Kami selalu terbuka untuk komunikasi dan kolaborasi. Silakan hubungi kami melalui:  
