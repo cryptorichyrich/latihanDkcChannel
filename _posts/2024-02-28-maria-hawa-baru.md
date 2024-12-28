@@ -47,13 +47,3 @@ Baik Hawa maupun Maria didekati oleh seorang malaikat (dengan Hawa, malaikat yan
 Dalam Penyelenggaraan Ilahi, ketetapan Maria-lah yang mempersiapkan jalan bagi ciptaan baru, yang dinyatakan dalam kebangkitan Kristus. "Ya"-nya—dalam salah satu gelar agungnya—menjadi "penyebab keselamatan kita." Ketetapan Maria menjadi jawaban ya bagi umat manusia atas lamaran pernikahan ilahi.
 
 Bagaimana kita dapat lebih dekat dengan Maria, dan dengan demikian lebih dekat dengan putranya? Karena hasrat terdalam Maria adalah menyatukan kita dengan putranya.
-
-* * *
-
-### **Anda Mungkin Juga Menyukai …**
-
-#### **Penobatan Maria di Bulan Mei: Bagian 6**
-
-#### **Ikuti Aku: Bertemu Yesus dalam Injil Yohanes**
-
-#### **Maria: Jalan-Jalan Alkitabiah dengan Bunda Maria**
