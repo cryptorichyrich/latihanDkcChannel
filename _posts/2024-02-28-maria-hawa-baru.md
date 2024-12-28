@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mengapa Maria Harus Tanpa Dosa?
-subtitle: “kematian melalui Hawa, kehidupan melalui Maria”
+title: Maria sebagai Hawa Baru
+subtitle: “Baik Hawa maupun Maria didekati oleh seorang malaikat (dengan Hawa, malaikat yang jatuh)
 tags: [Katolik, Dogma]
 comments: true
 mathjax: true
