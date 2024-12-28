@@ -1,0 +1,77 @@
+.articles-header {
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .page-heading{
+    margin-top: 20px;
+  }
+  
+  .articles-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 700px;
+  }
+  
+  .article-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    background-color: #000;
+  }
+  
+  .article-content {
+    flex: 2;
+  }
+  
+  .article-link {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: var(--page-col);
+    transition: color 0.3s, text-shadow 0.3s;
+  }
+  
+  .article-link:hover {
+    color: var(--link-col);
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+  }
+  
+  .article-thumbnail {
+    flex: 1;
+    text-align: right;
+  }
+  
+  .article-thumbnail img {
+    max-width: 80px; /* Adjust the size */
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .navbar-custom{
+    background-color:#000;
+  }
+
+  .page-subheading{
+    color:var(--navbar-text-col);
+    font-weight: bold !important;
+  }
+
+  #search-results-container a{
+    color:var(--navbar-text-col) !important;
+  }
+
+.btn-whatsapp{color:#000;background-color:#168e00;border-color:rgba(0,0,0,0.2)}.btn-whatsapp:focus,.btn-whatsapp.focus{color:#000;background-color:#bcddff;border-color:rgba(0,0,0,0.2)}
+.btn-whatsapp:hover{color:#000;background-color:#398c2a;border-color:rgba(0,0,0,0.2)}
+.btn-whatsapp:active,.btn-whatsapp.active,.open>.dropdown-toggle.btn-whatsapp{color:#000;background-color:#bcddff;border-color:rgba(0,0,0,0.2)}.btn-whatsapp:active:hover,.btn-whatsapp.active:hover,.open>.dropdown-toggle.btn-whatsapp:hover,.btn-whatsapp:active:focus,.btn-whatsapp.active:focus,.open>.dropdown-toggle.btn-whatsapp:focus,.btn-whatsapp:active.focus,.btn-whatsapp.active.focus,.open>.dropdown-toggle.btn-whatsapp.focus{color:#000;background-color:#98ccff;border-color:rgba(0,0,0,0.2)}
+.btn-whatsapp:active,.btn-whatsapp.active,.open>.dropdown-toggle.btn-whatsapp{background-image:none}
+.btn-whatsapp.disabled,.btn-whatsapp[disabled],fieldset[disabled] .btn-whatsapp,.btn-whatsapp.disabled:hover,.btn-whatsapp[disabled]:hover,fieldset[disabled] .btn-whatsapp:hover,.btn-whatsapp.disabled:focus,.btn-whatsapp[disabled]:focus,fieldset[disabled] .btn-whatsapp:focus,.btn-whatsapp.disabled.focus,.btn-whatsapp[disabled].focus,fieldset[disabled] .btn-whatsapp.focus,.btn-whatsapp.disabled:active,.btn-whatsapp[disabled]:active,fieldset[disabled] .btn-whatsapp:active,.btn-whatsapp.disabled.active,.btn-whatsapp[disabled].active,fieldset[disabled] .btn-whatsapp.active{background-color:#eff7ff;border-color:rgba(0,0,0,0.2)}
+.btn-whatsapp .badge{color:#eff7ff;background-color:#000}

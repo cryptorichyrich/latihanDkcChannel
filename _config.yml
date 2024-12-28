@@ -10,21 +10,18 @@
 ############################
 
 # Name of website
-title: My website
+title: DAMAI KASIH CHANNEL
 
 # Your name to show in the footer
-author: Some Person
+author: DKC TEAM
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Beranda: "/"
+  About DKC: "aboutDkc" 
 
 ################
 # --- Logo --- #
@@ -32,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/channels4_profile.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,21 +47,18 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ignatius.erick29@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  youtube: "@damaikasihchannel9153"
+  tiktok: "@dkc_team.apologetik"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: damaikasihchannel
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -96,11 +90,11 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  whatsapp: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "damaikasihchannel.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,15 +130,16 @@ navbar-var-length: false
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#c8a970"
+hover-col: "#c8a970"
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#c8a970"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#c8a970"
+light-text: "#fff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -157,8 +152,8 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -258,10 +253,10 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /artikel/:title/
 paginate: 5
 
 kramdown:
@@ -293,6 +288,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - _pages/
 
 plugins:
   - jekyll-paginate
