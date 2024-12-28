@@ -36,4 +36,24 @@ Bahkan, Yohanes tidak pernah menyebut Maria dengan namanya—sebaliknya, ia sela
 
 #### **Mengapa Yohanes menyebut dirinya _murid yang dikasihi_?**
 
-Nah, apakah kamu dikasihi? Apakah aku dikasihi? Yohanes di sini melihat dirinya sebagai perwujudan hubungan yang diberikan kepada semua murid. Ia menjadikan Maria sebagai muridnya 
+Nah, apakah engkau dikasihi? Apakah aku dikasihi? Di sini Yohanes melihat dirinya sebagai perwujudan hubungan yang diberikan kepada semua murid. Pengambilannya terhadap Maria sebagai ibu rohaninya tidak hanya merujuk kepadanya, tetapi juga pada hubungan yang kini dimiliki semua orang Kristen dengan Bunda Maria. Dengan mempercayakan Yohanes dan Maria satu sama lain dengan cara ini, Yesus telah mempercayakan Bunda Maria kepada kita semua. Maria menjadi ibu rohani kita yang senantiasa membawa kebutuhan kita kepada putranya—seperti yang dilakukannya pada Pesta Pernikahan di Kana; dan ia senantiasa berkata kepada kita semua, seperti yang dilakukannya saat itu: “Apa pun yang dikatakan kepadamu, buatlah demikian” (2:5). Dengan kata lain, Maria senantiasa membawa kita kepada Yesus—semakin dekat kita kepadanya, semakin dekat pula kita kepada-Nya.
+
+Kita memiliki materi serupa dalam Wahyu 12, di mana kita memiliki seorang “perempuan” yang merupakan ibu dari Mesias (lihat 12:1, 5) dan ibu dari semua orang Kristen—anak-anaknya yang lain digambarkan sebagai “mereka yang menuruti perintah-perintah Allah dan memberi kesaksian tentang Yesus” (12:17).
+
+Gereja mula-mula mengetahui bahwa Maria adalah Hawa Baru, ibu baru dari semua yang hidup dan karenanya menjadi ibu kita di dalam Kristus. Sebagaimana para Bapa Gereja awal suka katakan, Maria bagaikan bulan: ia tidak memiliki cahaya dari dirinya sendiri, tetapi ia memantulkan cahaya matahari dengan cemerlang. Analogi ini penting karena menunjukkan bahwa kemuliaan Maria selalu merupakan partisipasi dalam kemuliaan putranya; artinya, kemuliaan itu tidak pernah bersaing dengan Yesus—kemuliaan itu tidak pernah merampas kemuliaan Yesus, tetapi hanya berfungsi untuk menunjukkan kuasa-Nya.
+
+Baik Hawa maupun Maria didekati oleh seorang malaikat (dengan Hawa, malaikat yang jatuh); keraguan merayapi hati Hawa, sedangkan iman Maria teguh (lihat Lukas 1:45). Hawa berpartisipasi dalam kejatuhan Adam pertama, sama seperti Maria berpartisipasi dalam kemenangan Putranya, Adam Baru (lihat Lukas 2:34-35). Dalam kata-kata para Bapa Gereja awal, "simpul ketidaktaatan Hawa dilepaskan oleh iman Maria."
+
+Dalam Penyelenggaraan Ilahi, ketetapan Maria-lah yang mempersiapkan jalan bagi ciptaan baru, yang dinyatakan dalam kebangkitan Kristus. "Ya"-nya—dalam salah satu gelar agungnya—menjadi "penyebab keselamatan kita." Ketetapan Maria menjadi jawaban ya bagi umat manusia atas lamaran pernikahan ilahi.
+
+Bagaimana kita dapat lebih dekat dengan Maria, dan dengan demikian lebih dekat dengan putranya? Karena hasrat terdalam Maria adalah menyatukan kita dengan putranya.
+
+* * *
+
+### **Anda Mungkin Juga Menyukai …**
+
+#### **Penobatan Maria di Bulan Mei: Bagian 6**
+
+#### **Ikuti Aku: Bertemu Yesus dalam Injil Yohanes**
+
+#### **Maria: Jalan-Jalan Alkitabiah dengan Bunda Maria**
