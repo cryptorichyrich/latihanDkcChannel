@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Otoritasnya Petrus
-tags: [Sejarah, Katolik, Dogma]
+tags: [Sejarah, Katolik, Dogma, Paus]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/peter-authority.png
 thumbnail-img: /assets/img/peter-authority.png
 author: Agustinus Biotamalo Lumbantoruan

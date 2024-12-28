@@ -4,7 +4,7 @@ title: Bonifasius dan Pohon Natal
 subtitle: Pohon Natal yang dicintai itu memiliki kisah asal usul Katolik yang sudah berusia berabad-abad.
 tags: [Sejarah, Katolik]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/boniface-and-christmas-tree.png
 thumbnail-img: /assets/img/boniface-and-christmas-tree.png
 author: Agustinus Biotamalo Lumbantoruan

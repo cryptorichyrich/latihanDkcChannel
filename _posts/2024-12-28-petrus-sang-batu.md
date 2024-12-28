@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Petrus Sang Batu
-tags: [Sejarah, Katolik, Dogma]
+tags: [Sejarah, Katolik, Dogma, Paus]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/petrus-batu.png
 thumbnail-img: /assets/img/petrus-batu.png
 author: Agustinus Biotamalo Lumbantoruan

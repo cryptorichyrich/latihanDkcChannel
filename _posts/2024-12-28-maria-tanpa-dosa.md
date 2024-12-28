@@ -4,7 +4,7 @@ title: Mengapa Maria Harus Tanpa Dosa?
 subtitle: Bila Anda melihat Kitab Suci dan Tradisi, Konsepsi Tak Bernoda adalah masuk akal.
 tags: [Katolik, Dogma]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/mary-tidak-berdosa.png
 thumbnail-img: /assets/img/mary-tidak-berdosa.png
 author: Agustinus Biotamalo Lumbantoruan

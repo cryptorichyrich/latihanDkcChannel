@@ -4,7 +4,7 @@ title: Agama Tanpa Moralitas
 subtitle: Anda tidak ingin menukar Tuhan Kekristenan dengan dewa pendendam seperti Zeus.
 tags: [Agama, Moralitas]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/404-southpark.jpg
 thumbnail-img: /assets/img/404-southpark.jpg
 author: Agustinus Biotamalo Lumbantoruan

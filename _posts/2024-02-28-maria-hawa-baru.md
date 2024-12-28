@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Maria sebagai Hawa Baru
-subtitle: “Baik Hawa maupun Maria didekati oleh seorang malaikat (dengan Hawa, malaikat yang jatuh)
+subtitle: Baik Hawa maupun Maria didekati oleh seorang malaikat (dengan Hawa, malaikat yang jatuh)
 tags: [Katolik, Dogma]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/mary-hawa-baru-classic.png
 thumbnail-img: /assets/img/mary-hawa-baru-classic.png
 author: Agustinus Biotamalo Lumbantoruan

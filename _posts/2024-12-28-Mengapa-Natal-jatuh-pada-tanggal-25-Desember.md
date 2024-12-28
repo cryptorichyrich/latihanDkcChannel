@@ -4,7 +4,7 @@ title: Mengapa Natal jatuh pada tanggal 25 Desember?
 subtitle: Apakah orang Kristen awal "meminjam" tanggal 25 Desember dari orang kafir? Semoga berhasil membuktikannya.
 tags: [Katolik, Sejarah]
 comments: true
-mathjax: true
+
 cover-img: /assets/img/kenapa-25-desember.png
 thumbnail-img: /assets/img/kenapa-25-desember.png
 author: Agustinus Biotamalo Lumbantoruan
