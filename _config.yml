@@ -21,7 +21,7 @@ author: DKC TEAM
 
 navbar-links:
   Beranda: "/"
-  About DKC: "aboutDkc" 
+  About DKC: "/about-dkc" 
 
 ################
 # --- Logo --- #
