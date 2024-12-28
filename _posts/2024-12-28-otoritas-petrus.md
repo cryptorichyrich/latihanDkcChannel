@@ -20,7 +20,7 @@ Ketiga gambaran tersebut adalah batu karang, pengurus, dan gembala. Ketiga gamba
 Tuhan Adalah Batu Karangku
 --------------
 
-Sebuah studi kata dari Perjanjian Lama menunjukkan pentingnya batu karang sebagai gambaran otoritas dan kekuatan yang mendasar. Dalam Kejadian 49:24, bapa leluhur Yakub, memberkati anak-anaknya, mengatakan bahwa lengan Yosef kuat dalam pertempuran karena ditopang oleh "gembala, gunung batu Israel." Gembala dan batu adalah simbol kepedulian dan dukungan Allah bagi umat-Nya.
+Sebuah studi kata dari Perjanjian Lama menunjukkan pentingnya batu karang sebagai gambaran otoritas dan kekuatan yang mendasar. Dalam Kejadian 49:24, bapa leluhur Yakub, memberkati anak-anaknya, mengatakan bahwa lengan Yusuf kuat dalam pertempuran karena ditopang oleh "gembala, gunung batu Israel." Gembala dan batu adalah simbol kepedulian dan dukungan Allah bagi umat-Nya.
 
 Bagi Musa, batu adalah tempat yang kokoh untuk berdiri dan tempat persembunyian yang aman (Kel 33:21-22), dan bagi orang Israel, batu adalah sumber kesegaran dan kehidupan yang ajaib (Kel 17:6). Di seluruh Kitab Ulangan, Tuhan adalah batu yang sempurna, yang menjadi bapa bagi anak-anak-Nya, dan yang menyediakan kehidupan yang berkelimpahan bagi mereka (Ul 32:4,13,15,18).
 
@@ -35,7 +35,7 @@ Dalam konteks seluruh Perjanjian Lama, Yesus sang batu karang memberikan ajaran-
 Utusan Raja
 -------------------
 
-Jalinan kedua dalam jalinan tali otoritas Petrus adalah gambaran pelayan. Pelayan dalam rumah tangga kerajaan muncul di seluruh catatan Perjanjian Lama. Patriark Yosef bekerja dengan seorang pelayan di istana di Mesir. Raja Saul memiliki seorang pelayan, seperti halnya pangeran Mefiboset, tetapi gambaran pelayan yang paling penting dalam Perjanjian Lama untuk memahami Matius 16 ada di Yesaya 22.
+Jalinan kedua dalam jalinan tali otoritas Petrus adalah gambaran pelayan. Pelayan dalam rumah tangga kerajaan muncul di seluruh catatan Perjanjian Lama. Patriark Yusuf bekerja dengan seorang pelayan di istana di Mesir. Raja Saul memiliki seorang pelayan, seperti halnya pangeran Mefiboset, tetapi gambaran pelayan yang paling penting dalam Perjanjian Lama untuk memahami Matius 16 ada di Yesaya 22.
 
 Di sana nabi fmenceritakan jatuhnya seorang pengurus kerajaan dan pergantian pengurus yang lain. Sebna digantikan oleh Elyakim, dan nabi berkata kepada Sebna yang ditolak, “Aku akan mengenakan kepadanya jubahmu dan mengikatkannya pada ikat pinggangmu, dan menyerahkan kekuasaanmu kepadanya. Ia akan menjadi bapa bagi penduduk Yerusalem dan bagi kaum Yehuda. Aku akan menaruh kunci rumah Daud di pundaknya; apa yang dibukanya tidak dapat ditutup oleh seorang pun, dan apa yang ditutupnya tidak dapat dibuka oleh seorang pun” (Yes 22:21-22).
 
