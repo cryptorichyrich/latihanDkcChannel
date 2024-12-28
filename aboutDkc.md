@@ -31,4 +31,4 @@ Kami selalu terbuka untuk komunikasi dan kolaborasi. Silakan hubungi kami melalu
 ## Ucapan Terima Kasih  
 Kami berterima kasih atas dukungan dan perhatian Anda. Tetaplah setia dalam iman, dan semoga Tuhan selalu memberkati!  
 
-**Damai Kasih Channel** – Membawa Damai dan Kebenaran.
+**Damai Kasih Channel** – Tuhan Yesus memberkati!
