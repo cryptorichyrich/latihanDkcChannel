@@ -9,8 +9,7 @@ thumbnail-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.png
 author: ~@♏
 ---
 
-St. Irenaeus mengatakan ketidaktaatan Hawa, yaitu belenggu dosa mengikat manusia karena ketidaktaatannya kepada Allah, diuraikan oleh ketaatan Bunda Maria. Dosa Adam dilakukan setelah Hawa terlebih dahulu jatuh ke dalam dosa, oleh karena itu “obat penawarnya” adalah ketaatan Maria, sang Hawa baru
-
+**LIVE DKC 28 DESEMBER 2024: MENGAPA BUNDA MARIA DISEBUT SEBAGAI HAWA YANG BARU ...???**
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKQemv8YyF4?si=kJ-6FdV692IzHbao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
