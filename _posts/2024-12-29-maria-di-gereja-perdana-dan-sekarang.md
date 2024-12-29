@@ -101,4 +101,4 @@ Bagian-bagian Alkitab yang menurut umat Katolik terkait dengan Maria:
 * Yoh 1:14 inkarnasi 2:1-5 Kana 6:42 Tidakkah kita kenal ibu-Nya 19:25-27
 * Kisah Para Rasul 1:14 Berkumpul dalam doa bersama Maria Gal 4:4 Allah mengutus Anak yang lahir dari seorang perempuan
 * Kol 1:15, 18 sulung, Kepala tubuh
-* Wahyu 11:19 Bahtera di Surga 12:1-17 Wanita berselubungkan matahari
+* Wahyu 11:19 Bahtera di Surga 12:1-17 Wanita berselubungkan matahari 
