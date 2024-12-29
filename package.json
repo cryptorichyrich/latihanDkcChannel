@@ -1,0 +1,28 @@
+{
+  "name": "latihandkcchannel",
+  "version": "1.0.0",
+  "description": "[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptorichyrich/latihanDkcChannel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cryptorichyrich/latihanDkcChannel/issues"
+  },
+  "homepage": "https://github.com/cryptorichyrich/latihanDkcChannel#readme",
+  "dependencies": {
+    "tinacms": "^2.5.2"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.7.0",
+    "@types/node": "^22.10.2"
+  }
+}
