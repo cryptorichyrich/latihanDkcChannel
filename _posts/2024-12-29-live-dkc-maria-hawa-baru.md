@@ -9,6 +9,13 @@ author: ~@♏
 ---
 
 **LIVE DKC 28 DESEMBER 2024: MENGAPA BUNDA MARIA DISEBUT SEBAGAI HAWA YANG BARU ...???**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=JKQemv8YyF4" target="_blank">
+    <img src="https://img.youtube.com/vi/JKQemv8YyF4/0.jpg" alt="YouTube Video" style="max-width:100%; height:auto;">
+  </a>
+</div>
+
 **A.	Mengapa Bunda Maria disebut sebagai Hawa yang Baru?**
 1. Hawa adalah manusia perempuan pertama yang karena ketidaktaatannya membawa maut ke dunia, sedangkan Bunda Maria karena ketaatannya melahirkan Sang Hidup ke dunia. Perbandingan tersebut tidak berdiri sendiri melainkan sebagai kesatuan dengan perbandingan antara Adam dengan Kristus yang disebut “Adam yang baru” (lih. Roma 5:12-21, 1 Korintus 15:21). Disini ada keterlibatan Hawa yang baru yaitu Bunda Maria, sehingga Adam yang baru (Kristus) dapat lahir ke dunia menghapus dosa manusia. Oleh Maria, umat manusia menerima penghapusan dosa dan kehidupan kekal.
 2. St. Irenaeus mengatakan ketidaktaatan Hawa, yaitu belenggu dosa mengikat manusia karena ketidaktaatannya kepada Allah, diuraikan oleh ketaatan Bunda Maria. Dosa Adam dilakukan setelah Hawa terlebih dahulu jatuh ke dalam dosa, oleh karena itu “obat penawarnya” adalah ketaatan Maria, sang Hawa baru (lih. Lukas 1:38), Kristus sebagai Adam yang baru dapat datang ke dunia karena ketaatan Maria kepada Allah (lih. Ibrani 10:5-7).
