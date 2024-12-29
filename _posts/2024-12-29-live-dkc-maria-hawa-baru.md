@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LIVE DKC 28 DESEMBER 2024, MARIA TIDAK PERAWAN? MENGAPA BUNDA MARIA DISEBUT SEBAGAI HAWA YANG BARU ...???
-subtitle:St. Irenaeus mengatakan ketidaktaatan Hawa, yaitu belenggu dosa mengikat manusia karena ketidaktaatannya kepada Allah, diuraikan oleh ketaatan Bunda Maria. Dosa Adam dilakukan setelah Hawa terlebih dahulu jatuh ke dalam dosa, oleh karena itu “obat penawarnya” adalah ketaatan Maria, sang Hawa baru
+subtitle: St. Irenaeus mengatakan ketidaktaatan Hawa, yaitu belenggu dosa mengikat manusia karena ketidaktaatannya kepada Allah, diuraikan oleh ketaatan Bunda Maria. Dosa Adam dilakukan setelah Hawa terlebih dahulu jatuh ke dalam dosa, oleh karena itu “obat penawarnya” adalah ketaatan Maria, sang Hawa baru
 tags: [Katolik, Sejarah, Dogma, Maria]
 comments: true
 cover-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.png
