@@ -61,7 +61,7 @@ Salah satu katakombe tertua berisi gambar Bunda Maria dan Anak yang berasal dari
 > tetapi bebaskanlah kami selalu dari semua bahaya,
 > ya Perawan yang selalu mulia dan terberkati.
 
-2Berarti "Pembawa Tuhan" atau Bunda Tuhan. Gelar ini digunakan dalam penggunaan Kristen sejak awal. Gelar ini hanya mengatakan bahwa ia melahirkan Yesus (yang oleh setiap orang Kristen akan setuju bahwa Yesus adalah Tuhan).
+Melalui "Pembawa Tuhan" atau Bunda Tuhan. Gelar ini digunakan dalam penggunaan Kristen sejak awal. Gelar ini hanya mengatakan bahwa ia melahirkan Yesus (yang oleh setiap orang Kristen akan setuju bahwa Yesus adalah Tuhan).
 
 Ada juga perayaan untuk mengenang Maria Diangkat ke Surga di Antiokhia yang dimulai sejak tahun 380 M.
 
