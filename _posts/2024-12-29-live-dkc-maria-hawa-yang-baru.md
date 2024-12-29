@@ -9,12 +9,10 @@ thumbnail-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.png
 author: ~@♏
 ---
 
-**LIVE DKC 28 DESEMBER 2024: MENGAPA BUNDA MARIA DISEBUT SEBAGAI HAWA YANG BARU ...???**
+St. Irenaeus mengatakan ketidaktaatan Hawa, yaitu belenggu dosa mengikat manusia karena ketidaktaatannya kepada Allah, diuraikan oleh ketaatan Bunda Maria. Dosa Adam dilakukan setelah Hawa terlebih dahulu jatuh ke dalam dosa, oleh karena itu “obat penawarnya” adalah ketaatan Maria, sang Hawa baru
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=JKQemv8YyF4" target="_blank">
-    <img src="https://img.youtube.com/vi/JKQemv8YyF4/0.jpg" alt="YouTube Video" style="max-width:100%; height:auto;">
-  </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKQemv8YyF4?si=kJ-6FdV692IzHbao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 **A.	Mengapa Bunda Maria disebut sebagai Hawa yang Baru?**
