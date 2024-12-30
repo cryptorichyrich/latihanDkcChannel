@@ -13,7 +13,7 @@ Ketika membahas masalah agama yang kontroversial, umat Katolik sebaiknya berhati
 
 ## Memahami Bidat
 
-Istilah *bidat* berasal dari kata Yunani "haíresis (αἵρεσις)" yang aslinya berarti "pilihan," merujuk pada tindakan menghapus satu atau lebih kepercayaan dari satu set proposisi yang saling terkait. Meskipun bidat sering dikaitkan dengan agama, istilah ini juga dapat ditemukan dalam bidang pemikiran lainnya.
+Istilah *Heresy* (dalam bahasa Indonesia Bidaah) berasal dari kata Yunani "haíresis (αἵρεσις)" yang aslinya berarti "pilihan," merujuk pada tindakan menghapus satu atau lebih kepercayaan dari satu set proposisi yang saling terkait. Meskipun bidat sering dikaitkan dengan agama, istilah ini juga dapat ditemukan dalam bidang pemikiran lainnya.
 
 ### Definisi Katolik tentang bidat
 
