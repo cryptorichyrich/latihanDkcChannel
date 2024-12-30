@@ -22,8 +22,9 @@ author: DKC TEAM
 navbar-links:
   Beranda: "/"
   About DKC: "/about-dkc" 
-  Dokumen Gereja:
+  Dokumen Gereja:    
     - Katekismus Gereja Katolik: "/assets/doc/katekismus-gereja-katolik.pdf"
+    - Kompendium Katekismus Gereja Katolik: "/assets/doc/Kompendium katekismus Gereja Katolik bahasa Indonesia.pdf"
     - Kitab Hukum Kanonik: "/assets/doc/KHK Buku I - VII.pdf"
 
 ################
