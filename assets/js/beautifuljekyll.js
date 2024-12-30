@@ -29,8 +29,44 @@ let BeautifulJekyllJS = {
     BeautifulJekyllJS.initImgs();
 
     BeautifulJekyllJS.initSearch();
+
+    BeautifulJekyllJS.initTOC();
   },
 
+  initTOC: function () {
+    const blogPost = document.querySelector('#blog-post');
+    const tocContainer = document.querySelector('#toc');
+  
+    if (blogPost && tocContainer) {
+      const headings = blogPost.querySelectorAll('h1, h2, h3, h4, h5, h6');
+      const tocList = document.createElement('div');
+      tocList.innerHTML = "<h2>Table of Contents</h2><ul></ul>";
+  
+      headings.forEach((heading, index) => {
+        // Generate unique IDs for headings
+        if (!heading.id) {
+          heading.id = `heading-${index}`;
+        }
+  
+        // Create list item with link
+        const listItem = document.createElement('li');
+        
+        // Determine depth level and assign a class
+        const depth = parseInt(heading.tagName[1]); // h1 => 1, h2 => 2, etc.
+        listItem.classList.add(`toc-depth-${depth}`);
+        listItem.style.marginLeft = `${(depth - 1) * 10}px`; // Optional for indentation
+  
+        const link = document.createElement('a');
+        link.href = `#${heading.id}`;
+        link.textContent = heading.textContent;
+  
+        listItem.appendChild(link);
+        tocList.querySelector('ul').appendChild(listItem);
+      });
+  
+      tocContainer.appendChild(tocList);
+    }
+  },
   initNavbar : function() {
     // Set the navbar-dark/light class based on its background color
     const rgb = $('.navbar').css("background-color").replace(/[^\d,]/g,'').split(",");

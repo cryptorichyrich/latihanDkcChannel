@@ -94,3 +94,34 @@ padding: 10px 30px;
 border: 1px solid #e8e8e8;
 border-radius: 3px;
 }
+
+.toc-depth-1 {
+  list-style-type: disc; /* Default disc for level 1 */
+}
+
+.toc-depth-2 {
+  list-style-type: circle; /* Circle for level 2 */
+}
+
+.toc-depth-3 {
+  list-style-type: square; /* Square for level 3 */
+}
+
+.toc-depth-4,
+.toc-depth-5,
+.toc-depth-6 {
+  list-style-type: none; /* Optional for deeper levels */
+  margin-left: 20px;
+}
+
+.toc-depth-4::before {
+  content: "• "; /* Custom bullet style for deeper levels */
+}
+
+.toc-depth-5::before {
+  content: "◦ "; /* Custom bullet for level 5 */
+}
+
+.toc-depth-6::before {
+  content: "▪ "; /* Custom bullet for level 6 */
+}
