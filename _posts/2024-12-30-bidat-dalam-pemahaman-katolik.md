@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bidat dan Ortodoksi dalam Pemikiran Katolik"
-subtitle: "Istilah *bidat* berasal dari kata Yunani yang berarti 'pilihan', merujuk pada tindakan menghapus satu atau lebih kepercayaan dari satu set proposisi yang saling terkait."
+subtitle: "Istilah 'bidat' berasal dari kata Yunani yang berarti 'pilihan', merujuk pada tindakan menghapus satu atau lebih kepercayaan dari satu set proposisi yang saling terkait."
 tags: [Bidat]
 comments: true
 cover-img: /assets/img/bidat-dalam-pemahaman-katolik.png
