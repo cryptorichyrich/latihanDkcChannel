@@ -186,7 +186,7 @@ Dengan mengatakan "ya" kepada Tuhan, Abraham menjadi bapa seluruh umat manusia (
 
 > Ketika Yesus melihat **ibu**-Nya di sana, dan murid yang dikasihi-Nya berdiri di dekatnya, berkatalah Ia kepada ibu-Nya, "Ibu, inilah, anakmu!" dan kepada murid-murid-Nya, "Inilah **ibumu**." Sejak saat itu, murid ini menerima dia di rumahnya. (Yohanes 19:26),
 
-Yang pasti, seperti yang disarankan kaum Evangelis, Ia berkata bahwa Yohanes harus merawat ibunya. Namun, Yesus tidak berbicara pada satu tingkat saja. Kata-kata-Nya berlapis-lapis dan kaya. Kami percaya pada bagian ini, makna yang lebih besar adalah bahwa Yesus memberikan Maria kepada semua orang sebagai ibu kita. Saya (Daud) merasakan ini pertama kali saya membaca bagian itu (sebelum saya mendengarnya dari para teolog Katolik).
+Yang pasti, seperti yang disarankan kaum Evangelis, Ia berkata bahwa Yohanes harus merawat ibunya. Namun, Yesus tidak berbicara pada satu tingkat saja. Kata-kata-Nya berlapis-lapis dan kaya. Kami percaya pada bagian ini, makna yang lebih besar adalah bahwa Yesus memberikan Maria kepada semua orang sebagai ibu kita. Saya (David) merasakan ini pertama kali saya membaca bagian itu (sebelum saya mendengarnya dari para teolog Katolik).
 
 | Perjanjian Lama | Perjanjian Baru |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
