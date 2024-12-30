@@ -307,6 +307,22 @@ html_press:
   strip_crlf: false
   js_minifier_options: false
 
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
