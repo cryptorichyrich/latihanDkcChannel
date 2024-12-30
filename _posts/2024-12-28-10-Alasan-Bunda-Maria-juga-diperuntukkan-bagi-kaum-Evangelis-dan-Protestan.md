@@ -4,7 +4,6 @@ title: 10 Alasan Bunda Maria juga diperuntukkan bagi kaum Evangelis dan Protesta
 subtitle: Kaum Evangelis dan Protestan arus utama dapat mengasihi Maria dan berdoa bersamanya. Berikut alasannya.
 tags: [Katolik, Dogma, Maria]
 comments: true
-
 cover-img: /assets/img/10-alasan-bunda-maria.png
 thumbnail-img: /assets/img/10-alasan-bunda-maria.png
 author: Agustinus Biotamalo Lumbantoruan
@@ -88,9 +87,9 @@ Kita dapat menghormati Maria, Tabut Perjanjian _**Baru**_, sebagaimana orang-ora
 7\. Maria adalah wajah asli feminisme modern
 -------------------------------------------------
 
-Ia berkata "ya" kepada Roh Kudus tanpa meminta izin dari Yosef atau orang tuanya, yang keduanya sangat terpengaruh. Ia percaya bahwa semuanya akan berhasil, dan berkat pesan Malaikat Gabriel kepada Yosef, semuanya berhasil. (Mat 1:18-25) Ia tangguh, memiliki daya tahan, rendah hati tetapi kuat. Ia tunduk tetapi tetap setia.
+Ia berkata "ya" kepada Roh Kudus tanpa meminta izin dari Yusuf atau orang tuanya, yang keduanya sangat terpengaruh. Ia percaya bahwa semuanya akan berhasil, dan berkat pesan Malaikat Jibril kepada Yusuf, semuanya berhasil. (Mat 1:18-25) Ia tangguh, memiliki daya tahan, rendah hati tetapi kuat. Ia tunduk tetapi tetap setia.
 
-Beberapa wanita Kristen yang baik memiliki suami yang telah kehilangan iman atau telah murtad. Maria menunjukkan kepada para wanita bagaimana mengambil pimpinan rohani ketika Tuhan berbicara. Namun, ia tidak menentang. Ia mengikuti Yosef ketika ia mendengar dari Tuhan, seperti ketika mereka melarikan diri ke Mesir (Mat 2:13).
+Beberapa wanita Kristen yang baik memiliki suami yang telah kehilangan iman atau telah murtad. Maria menunjukkan kepada para wanita bagaimana mengambil pimpinan rohani ketika Tuhan berbicara. Namun, ia tidak menentang. Ia mengikuti Yusuf ketika ia mendengar dari Tuhan, seperti ketika mereka melarikan diri ke Mesir (Mat 2:13).
 
 8\. Maria menolong para pria selama masa-masa sulit dalam pernikahan dan/atau pornografi
 --------------------------------------------------------------
@@ -102,7 +101,7 @@ Selama masa-masa sulit dalam pernikahan, iblis mencoba memikat para pria agar me
 9\. Maria adalah saksi pro-kehidupan yang utama
 ----------------------------------------
 
-Maria adalah seorang remaja yang sedang hamil. Ia membantu para ibu yang sedang mempertimbangkan (atau telah melakukan) aborsi. Ia berkata "Ya" untuk kehidupan, dengan cara yang sebesar-besarnya, bahkan ketika kehamilan "di luar nikah" dapat mengakibatkan hukuman rajam sampai mati menurut hukum Yahudi. Ia mempertaruhkan keselamatan pertunangannya dengan Yosef, yang awalnya menolaknya, dan ia tidak meminta izinnya untuk memiliki bayi itu. Ia tidak meminta izin orang tuanya untuk memiliki bayi itu. Ia hanya melanjutkan dengan iman, percaya bahwa semuanya akan baik-baik saja, dan memang demikian. Maria tahu seperti apa rasanya penolakan. Ia juga menghabiskan waktu bertahun-tahun sebagai pengungsi di Mesir. (Mat 2:13–23). Remaja yang hamil dapat mengandalkannya. Mereka tidak memerlukan izin dari pacar mereka atau izin dari orang tua mereka untuk menjaga bayi tersebut. Anak laki-laki atau perempuan dalam kandungannya adalah ciptaan Tuhan.
+Maria adalah seorang remaja yang sedang hamil. Ia membantu para ibu yang sedang mempertimbangkan (atau telah melakukan) aborsi. Ia berkata "Ya" untuk kehidupan, dengan cara yang sebesar-besarnya, bahkan ketika kehamilan "di luar nikah" dapat mengakibatkan hukuman rajam sampai mati menurut hukum Yahudi. Ia mempertaruhkan keselamatan pertunangannya dengan Yusuf, yang awalnya menolaknya, dan ia tidak meminta izinnya untuk memiliki bayi itu. Ia tidak meminta izin orang tuanya untuk memiliki bayi itu. Ia hanya melanjutkan dengan iman, percaya bahwa semuanya akan baik-baik saja, dan memang demikian. Maria tahu seperti apa rasanya penolakan. Ia juga menghabiskan waktu bertahun-tahun sebagai pengungsi di Mesir. (Mat 2:13–23). Remaja yang hamil dapat mengandalkannya. Mereka tidak memerlukan izin dari pacar mereka atau izin dari orang tua mereka untuk menjaga bayi tersebut. Anak laki-laki atau perempuan dalam kandungannya adalah ciptaan Tuhan.
 
 10\. Jika Anda berdoa kepada Yesus tentang Maria, Dia akan menjawab
 --------------------------------------------------

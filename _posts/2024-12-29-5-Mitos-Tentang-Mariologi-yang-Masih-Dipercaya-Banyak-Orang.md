@@ -3,7 +3,7 @@ title: 5 Mitos Tentang Mariologi yang Masih Dipercaya Banyak Orang
 subtitle: >-
   Mariologi adalah salah satu aspek Katolik yang paling kontroversial bagi umat
   Kristen
-tags: 'Maria, Dogma'
+tags: [Maria, Dogma]
 cover-img: /assets/img/virgin460.avif
 thumbnail-img: /assets/img/virgin460.avif
 author: Agustinus Biotamalo Lumbantoruan
