@@ -298,6 +298,10 @@ img {
   {% endunless %}
 }
 
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:hover{
+  background-color:var(--navbar-border-col);
+}
+
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
