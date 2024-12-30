@@ -21,7 +21,7 @@ Di kutip dari
 
 **ST. KLEMENS DARI ALEXANDRIA**
 
-\[P\]ertus yang terberkati, yang terpilih, yang terkemuka, yang pertama di antara para murid, yang hanya untuknya dan dirinya sendiri Sang Juruselamat memberikan penghormatan \[Mat 17:27\], tangkas menangkap dan memahami perkataan itu. Perhatikan apa yang dia katakan? “Lihat, kami telah meninggalkan semua dan mengikuti Engkau” \[Siapakah Orang Kaya yang Akan Diselamatkan? 21 (sekitar tahun 200 M)\].
+\[P\]etrus yang terberkati, yang terpilih, yang terkemuka, yang pertama di antara para murid, yang hanya untuknya dan dirinya sendiri Sang Juruselamat memberikan penghormatan \[Mat 17:27\], tangkas menangkap dan memahami perkataan itu. Perhatikan apa yang dia katakan? “Lihat, kami telah meninggalkan semua dan mengikuti Engkau” \[Siapakah Orang Kaya yang Akan Diselamatkan? 21 (sekitar tahun 200 M)\].
 
 **TERTULIANUS DARI CARTHAGE**
 
