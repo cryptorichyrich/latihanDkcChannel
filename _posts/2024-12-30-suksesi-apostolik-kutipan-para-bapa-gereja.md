@@ -258,4 +258,5 @@ Di kutip dari
 > saya dari iman yang mengikat pikiran saya dengan ikatan-ikatan yang
 > banyak dan kuat kepada agama Kristen\[Melawan Surat Mani yg Disebut
 > “Fondasi” 4:5 (397 M)\].
+
 **Berkah Dalem**

@@ -228,4 +228,5 @@ Di kutip dari
 > harus menyatu pada satu tahta Petrus, dan tidak ada satu pun yang
 > boleh yang terpisah dari kepalanya \[ibid., 14:12\].
 
+
 **Berkah Dalem**
