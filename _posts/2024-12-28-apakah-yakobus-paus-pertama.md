@@ -26,7 +26,7 @@ Dalam Mat.18:16, sesuai dengan bentuk pengajarannya yang biasa, Yesus mengacu pa
 
 Dalam Perjanjian Lama, jabatan Kanselir adalah dinasti yang memiliki penerus. Hal ini dibuktikan dengan referensi ke jabatan, takhta, jubah, wewenang, dan kunci. Jabatan ini juga terdengar sangat mirip dengan Paus masa kini. Pemegang kunci disebut **bapak.** Ini tampaknya sangat mirip dengan bahasa suksesi. Bahkan referensi ke "Rumah Daud" dalam Yesaya 22:24 menunjuk ke masalah suksesi. Daud telah meninggal 400 tahun sebelumnya. Yesus juga berada dalam garis keturunan Daud. Yesus adalah Raja dan tentu saja memiliki wewenang untuk memberikan kunci kanselir (Perdana Menteri) kepada Petrus yang telah diberikan Tuhan kepada Elyakim.
 
-Scott Hahn (Ph.D. dan mantan pendeta Evangelis) berkata:
+Scott Hahn (Ph.D. dan mantan Imam Katolik Evangelis) berkata:
 
 > Ketika Yesus memberikan kunci kerajaan kepada Petrus, Petrus menerima jabatan Perdana Menteri, yang berarti otoritas dinasti dari Putra Daud, Yesus, Raja Israel, tetapi juga jabatan di mana akan ada suksesi dinasti. (ibid)
 

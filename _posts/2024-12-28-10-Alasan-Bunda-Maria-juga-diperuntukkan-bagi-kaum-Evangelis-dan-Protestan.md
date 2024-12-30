@@ -24,7 +24,7 @@ Surga adalah tempat yang hidup.
 
 Maria adalah ibu Yesus. Ia menyusui-Nya, mengganti popok-Nya, membesarkan-Nya, dan mengajari-Nya berdoa.
 
-> "Jangan pernah takut untuk terlalu mencintai Perawan Terberkati. Anda tidak akan pernah bisa mencintainya lebih dari Yesus." _St. Maximilian Kolbe (pendeta yang meninggal di Auschwitz)_
+> "Jangan pernah takut untuk terlalu mencintai Perawan Terberkati. Anda tidak akan pernah bisa mencintainya lebih dari Yesus." _St. Maximilian Kolbe (Imam Katolik yang meninggal di Auschwitz)_
 
 2\. Maria juga ibu Anda, tanda persatuan Kristen
 ------------------------------------------------------

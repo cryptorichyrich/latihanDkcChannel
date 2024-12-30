@@ -71,7 +71,7 @@ Ketika Yesus Kristus, setelah Kebangkitan-Nya, kemudian dengan khidmat memerinta
 Vikaris Kristus
 -------------------
 
-Ketika saya menjadi pendeta Anglikan di Inggris, saya menyandang gelar vikaris paroki. Istilah ini berasal dari fakta bahwa vikaris adalah pendeta yang ditunjuk untuk melakukan suatu pekerjaan menggantikan pendeta paroki resmi. Seorang pendeta dapat mengawasi berbagai paroki, jadi ia menunjuk vikaris untuk melakukan pekerjaan tersebut ketika ia tidak dapat berada di sana.
+Ketika saya menjadi Imam Katolik Anglikan di Inggris, saya menyandang gelar vikaris paroki. Istilah ini berasal dari fakta bahwa vikaris adalah Imam Katolik yang ditunjuk untuk melakukan suatu pekerjaan menggantikan Imam Katolik paroki resmi. Seorang Imam Katolik dapat mengawasi berbagai paroki, jadi ia menunjuk vikaris untuk melakukan pekerjaan tersebut ketika ia tidak dapat berada di sana.
 
 Banyak orang Kristen non-Katolik keberatan dengan sebutan Vikaris Kristus bagi paus. Namun, kata _vicar_ hanya berarti seseorang yang secara tidak langsung mewakili orang lain. Vikaris adalah seseorang yang diberi tugas. Tiga untaian gambaran Alkitab—batu karang, pengurus, dan gembala—menunjukkan dalam tiga cara berbeda bahwa Yesus menghendaki Petrus untuk menjalankan pelayanan dan wewenangnya di bumi—dengan kata lain, untuk bertindak sebagai wakilnya.
 
