@@ -38,9 +38,9 @@ Heresi material tidak dianggap dosa karena tidak ada kesadaran atau niat penuh. 
 
 ## Mengapa Heresi Mudah Terjadi?
 
-Heresi sering kali berawal dari pertanyaan yang tampak wajar, tetapi jawabannya dicari hanya melalui kebijaksanaan manusia tanpa merujuk pada kebijaksanaan ilahi. Kebijaksanaan ilahi ditemukan dalam Kitab Suci dan Magisterium Gereja Katolik, yang juga dikenal sebagai Tradisi Suci.
+Mengapa ajaran sesat begitu mudah? Itu dimulai dengan sebuah pertanyaan yang tampaknya wajar, yang jawabannya dicari melalui kebijaksanaan manusia semata tanpa harus mengandalkan Kebijaksanaan Ilahi. Bagaimana menemukan Kebijaksanaan Ilahi? Kebijaksanaan dicari dalam Kitab Suci dan Magisterium Gereja Katolik, yang juga dikenal sebagai Tradisi.
 
-Misteri-misteri Gereja, menurut definisinya, tidak sepenuhnya dapat diakses oleh akal manusia. Ketika akal tidak mampu menjelaskan, kita bergantung pada iman: "Allah mengatakannya, maka saya percaya." Heresi sering muncul ketika seseorang menolak untuk menerima kebenaran yang tidak sepenuhnya dapat dipahami oleh akal manusia. Sebagai makhluk ciptaan, kita perlu mendekati misteri Gereja dengan kerendahan hati agar dapat menerima kebenaran tersebut.
+Menurut definisinya, misteri-misteri dalam Gereja tidak dapat diakses oleh akal budi manusia semata. Wahyu ilahi memberi petunjuk kepada kita sampai batas tertentu, tetapi kita mencapai titik ketika intelek kita gagal dan kita hanya mengandalkan iman – dengan kata lain: Tuhan mengatakannya, maka saya mempercayainya. Ini juga merupakan bagaimana beberapa ajaran sesat muncul: orang-orang menjadi terguncang oleh Kebenaran dan tidak dapat merendahkan diri untuk menerima Kebenaran tanpa memahaminya sepenuhnya. Namun, kita harus mengingat hubungan kita sebagai makhluk dengan Sang Pencipta. Dia mahatahu, mahakuasa, dan ada di mana-mana, sedangkan kita tidak. Kita adalah makhluk dan Dia adalah apa adanya. Dia berada di atas dan melampaui waktu dan ruang, karena Dia menciptakannya. Kita dibatasi oleh waktu dan ruang, karena kita diciptakan. Datanglah kepada misteri Gereja dengan kerendahan hati dan Anda akan mampu menerima misteri ini tanpa menuntut pemahaman yang lengkap.
 
 ## Peran Konsili dan Dokumen Gereja
 
