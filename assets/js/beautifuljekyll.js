@@ -84,8 +84,8 @@ let BeautifulJekyllJS = {
         listItem.appendChild(link);
         tocList.querySelector('ul').appendChild(listItem);
       });
-  
-      tocContainer.appendChild(tocList);
+      if(headings.length>0)
+        tocContainer.appendChild(tocList);
     }
   },
   initNavbar : function() {
