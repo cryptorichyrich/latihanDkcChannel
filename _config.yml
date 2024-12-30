@@ -323,6 +323,9 @@ defaults:
       path: ""
     values:
       toc: true
+  
+kramdown:
+  toc_levels: 1..6
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
