@@ -624,6 +624,8 @@ footer .footer-custom-content {
   opacity: 0.8;
   border: 1px solid transparent;
   border-radius: 0.1875rem;
+  background-color: red;
+  color:white;
 }
 
 .blog-tags a:hover {
