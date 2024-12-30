@@ -291,7 +291,7 @@ img {
   padding: 0.625rem;
   background-color: var(--navbar-col);
   text-decoration: none !important;
-  font-weight: normal;
+  font-weight: bold;
   color: var(--navbar-border-col);
   {% unless site.navbar-var-length %}
   white-space: normal;
