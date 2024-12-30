@@ -5,8 +5,8 @@ subtitle: Tidak ada bukti alkitabiah tentang perebutan kekuasaan antara St. Yako
 tags: [Katolik, Paus]
 comments: true
 
-cover-img: /assets/img/yakobus-pauskah.png
-thumbnail-img: /assets/img/yakobus-pauskah.png
+cover-img: /assets/img/yakobus-pauskah.webp
+thumbnail-img: /assets/img/yakobus-pauskah.webp
 author: Tim DKC
 ---
 

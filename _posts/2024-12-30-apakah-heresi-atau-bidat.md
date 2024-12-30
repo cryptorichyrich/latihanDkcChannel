@@ -4,8 +4,8 @@ title: "Apakah Heresi atau Bidat?"
 subtitle: "Dengan memahami sejarah dan doktrin Gereja, umat Katolik diajak untuk lebih mendalami iman dan menjaga diri dari heresi yang dapat merusak jiwa dan persatuan dengan Gereja."
 tags: [Bidat]
 comments: true
-cover-img: /assets/img/sect-heretic-bidat.png
-thumbnail-img: /assets/img/sect-heretic-bidat.png
+cover-img: /assets/img/sect-heretic-bidat.webp
+thumbnail-img: /assets/img/sect-heretic-bidat.webp
 author: Tim DKC
 ---
 

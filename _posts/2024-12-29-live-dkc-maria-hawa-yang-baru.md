@@ -4,8 +4,8 @@ title: LIVE DKC 28 DESEMBER 2024, MENGAPA BUNDA MARIA DISEBUT SEBAGAI HAWA YANG 
 subtitle: St. Irenaeus mengatakan ketidaktaatan Hawa, yaitu belenggu dosa mengikat manusia karena ketidaktaatannya kepada Allah, diuraikan oleh ketaatan Bunda Maria. Dosa Adam dilakukan setelah Hawa terlebih dahulu jatuh ke dalam dosa, oleh karena itu “obat penawarnya” adalah ketaatan Maria, sang Hawa baru
 tags: [Katolik, Sejarah, Dogma, Maria]
 comments: true
-cover-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.png
-thumbnail-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.png
+cover-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.webp
+thumbnail-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.webp
 author: ~@♏
 ---
 

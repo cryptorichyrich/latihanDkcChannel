@@ -5,8 +5,8 @@ subtitle: Pohon Natal yang dicintai itu memiliki kisah asal usul Katolik yang su
 tags: [Sejarah, Katolik]
 comments: true
 
-cover-img: /assets/img/boniface-and-christmas-tree.png
-thumbnail-img: /assets/img/boniface-and-christmas-tree.png
+cover-img: /assets/img/boniface-and-christmas-tree.webp
+thumbnail-img: /assets/img/boniface-and-christmas-tree.webp
 author: Tim DKC
 ---
 

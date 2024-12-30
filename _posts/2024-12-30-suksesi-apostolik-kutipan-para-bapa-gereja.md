@@ -4,8 +4,8 @@ title: "Kutipan Para Bapa Gereja Mengenai Suksesi Apostolik"
 subtitle: "Sejak awal, Gereja Katolik adalah organisasi misionaris. Ketika Yesus naik ke surga, Ia memerintahkan murid-murid-Nya untuk 'Pergilah dan jadikanlah semua bangsa murid-Ku, baptislah mereka dalam nama Bapa, Anak, dan Roh Kudus, dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu.' (Matius 28:19-20). Para Rasul, termasuk Santo Paulus sebagai misionaris terbesar dalam sejarah Gereja"
 tags: [Katolik, Sejarah, Paus]
 comments: true
-cover-img: /assets/img/suksesi-apostolik.png
-thumbnail-img: /assets/img/suksesi-apostolik.png
+cover-img: /assets/img/suksesi-apostolik.webp
+thumbnail-img: /assets/img/suksesi-apostolik.webp
 author: Tim DKC
 ---
 
@@ -23,7 +23,7 @@ Dengan demikian, berdasarkan pengalaman, Bapa-Bapa Gereja dapat dengan yakin men
 Di kutip dari
 
 
-![theFathersKnowBest-title](/assets/img/theFathersKnowBest.png)
+![theFathersKnowBest-title](/assets/img/theFathersKnowBest.webp)
 
 **PAUS ST. KLEMEN I** 
 

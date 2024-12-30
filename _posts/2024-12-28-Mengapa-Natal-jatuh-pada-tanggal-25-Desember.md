@@ -5,8 +5,8 @@ subtitle: Apakah orang Kristen awal "meminjam" tanggal 25 Desember dari orang ka
 tags: [Katolik, Sejarah, Tradisi]
 comments: true
 
-cover-img: /assets/img/kenapa-25-desember.png
-thumbnail-img: /assets/img/kenapa-25-desember.png
+cover-img: /assets/img/kenapa-25-desember.webp
+thumbnail-img: /assets/img/kenapa-25-desember.webp
 author: Tim DKC
 ---
 

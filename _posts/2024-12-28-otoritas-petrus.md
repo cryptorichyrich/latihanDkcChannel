@@ -4,8 +4,8 @@ title: Otoritasnya Petrus
 tags: [Sejarah, Katolik, Dogma, Paus, Tradisi]
 comments: true
 
-cover-img: /assets/img/peter-authority.png
-thumbnail-img: /assets/img/peter-authority.png
+cover-img: /assets/img/peter-authority.webp
+thumbnail-img: /assets/img/peter-authority.webp
 author: Tim DKC
 ---
 

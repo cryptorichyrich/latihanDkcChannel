@@ -5,8 +5,8 @@ subtitle: Bila Anda melihat Kitab Suci dan Tradisi, Konsepsi Tak Bernoda adalah 
 tags: [Katolik, Dogma, Maria]
 comments: true
 
-cover-img: /assets/img/mary-tidak-berdosa.png
-thumbnail-img: /assets/img/mary-tidak-berdosa.png
+cover-img: /assets/img/mary-tidak-berdosa.webp
+thumbnail-img: /assets/img/mary-tidak-berdosa.webp
 author: Tim DKC
 ---
 

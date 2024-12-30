@@ -4,8 +4,8 @@ title: Maria Didalam Alkitab
 subtitle: Maria menegaskan pelayanannya yang kekal dengan mengatakan "segala keturunan akan menyebutku berbahagia."
 tags: [Katolik, Dogma, Maria]
 comments: true
-cover-img: /assets/img/maria-di-dalam-alkitab.png
-thumbnail-img: /assets/img/maria-di-dalam-alkitab.png
+cover-img: /assets/img/maria-di-dalam-alkitab.webp
+thumbnail-img: /assets/img/maria-di-dalam-alkitab.webp
 author: Tim DKC
 ---
 

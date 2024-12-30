@@ -4,8 +4,8 @@ title: Maria di Gereja Perdana dan Sekarang
 subtitle: Dengan menaati, ia menjadi penyebab keselamatan bagi dirinya sendiri dan bagi seluruh umat manusia!
 tags: [Katolik, Sejarah, Dogma, Maria]
 comments: true
-cover-img: /assets/img/maria-gereja-awal-dan-sekarang.png
-thumbnail-img: /assets/img/maria-gereja-awal-dan-sekarang.png
+cover-img: /assets/img/maria-gereja-awal-dan-sekarang.webp
+thumbnail-img: /assets/img/maria-gereja-awal-dan-sekarang.webp
 author: Tim DKC
 ---
 

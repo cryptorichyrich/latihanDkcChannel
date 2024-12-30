@@ -4,8 +4,8 @@ title: "Akar Penyebab Bidat"
 subtitle: "Dengan mengenali penyebab-penyebab ini, kita dapat lebih waspada terhadap kecenderungan bidat dan tetap berakar pada kebenaran Injil seperti yang diajarkan oleh Gereja.."
 tags: [Bidat]
 comments: true
-cover-img: /assets/img/root-problem-heresy.jpg
-thumbnail-img: /assets/img/root-problem-heresy.jpg
+cover-img: /assets/img/root-problem-heresy.webp
+thumbnail-img: /assets/img/root-problem-heresy.webp
 author: Tim DKC
 ---
 

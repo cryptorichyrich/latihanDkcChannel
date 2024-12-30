@@ -5,8 +5,8 @@ subtitle: Baik Hawa maupun Maria didekati oleh seorang malaikat (dengan Hawa, ma
 tags: [Katolik, Dogma, Maria]
 comments: true
 
-cover-img: /assets/img/mary-hawa-baru-classic.png
-thumbnail-img: /assets/img/mary-hawa-baru-classic.png
+cover-img: /assets/img/mary-hawa-baru-classic.webp
+thumbnail-img: /assets/img/mary-hawa-baru-classic.webp
 author: Tim DKC
 ---
 
@@ -14,7 +14,7 @@ Apa artinya memberitakan Maria sebagai Hawa Baru? Para penulis Kristen abad kedu
 
 Dalam Kejadian 3:15, kita memiliki apa yang tradisi kenal sebagai protoevangelium (“Injil pertama”), di mana Tuhan menanggapi Ular, mengisyaratkan janji penebusan pertamanya setelah kejatuhan Adam dan Hawa: “Aku akan mengadakan permusuhan antara engkau dan perempuan itu dan antara keturunanmu dan keturunannya; ia akan meremukkan kepalamu dan engkau akan meremukkan tumitnya.” Ini mengisyaratkan pergumulan kosmik yang akan terjadi, yang mengakibatkan kekalahan terakhir Ular melalui keturunan Perempuan—meskipun keturunannya juga akan menderita melalui kemenangan ini (“engkau akan meremukkan tumitnya”). Tradisi Kristen melihat ini pada akhirnya sebagai nubuat samar tentang kemenangan Yesus atas iblis di kayu Salib.
 
-![pernikahan di kana](https://www.fatherduffy.com/wp-content/uploads/2019/01/2019-01-19.jpg)
+![pernikahan di kana](https://www.fatherduffy.com/wp-content/uploads/2019/01/2019-01-19.webp)
 
 Lebih jauh, Hawa juga digambarkan sebagai "ibu dari semua yang hidup" (Kejadian 3:20). Melalui kasih karunia—di dalam Kristus—Maria menjadi ibu kita; ia menjadi ibu dari semua yang hidup bukan dalam tatanan alam, tetapi dalam tatanan kasih karunia supernatural.
 

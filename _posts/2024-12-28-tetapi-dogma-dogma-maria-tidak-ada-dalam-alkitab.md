@@ -5,8 +5,8 @@ subtitle: Jika hanya ada sedikit bukti Alkitabiah untuk doktrin-doktrin ini, men
 tags: [Katolik, Sejarah, Dogma, Maria]
 comments: true
 
-cover-img: /assets/img/mary-dogma.png
-thumbnail-img: /assets/img/mary-dogma.png
+cover-img: /assets/img/mary-dogma.webp
+thumbnail-img: /assets/img/mary-dogma.webp
 author: Tim DKC
 ---
 

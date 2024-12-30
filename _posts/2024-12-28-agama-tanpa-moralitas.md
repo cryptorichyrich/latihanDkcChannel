@@ -5,8 +5,8 @@ subtitle: Anda tidak ingin menukar Tuhan Kekristenan dengan dewa pendendam seper
 tags: [Agama, Moralitas]
 comments: true
 
-cover-img: /assets/img/404-southpark.jpg
-thumbnail-img: /assets/img/404-southpark.jpg
+cover-img: /assets/img/404-southpark.webp
+thumbnail-img: /assets/img/404-southpark.webp
 author: Tim DKC
 ---
 

@@ -4,8 +4,8 @@ title: Petrus Sang Batu
 tags: [Sejarah, Katolik, Dogma, Paus]
 comments: true
 
-cover-img: /assets/img/petrus-batu.png
-thumbnail-img: /assets/img/petrus-batu.png
+cover-img: /assets/img/petrus-batu.webp
+thumbnail-img: /assets/img/petrus-batu.webp
 author: Tim DKC
 ---
 

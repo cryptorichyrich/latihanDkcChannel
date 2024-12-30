@@ -5,8 +5,8 @@ subtitle: "Fakta bahwa Petrus dijadikan sebagai fondasi Gereja memiliki implikas
 "
 tags: [Katolik, Sejarah, Paus]
 comments: true
-cover-img: /assets/img/keutaman-petrus.png
-thumbnail-img: /assets/img/keutaman-petrus.png
+cover-img: /assets/img/keutaman-petrus.webp
+thumbnail-img: /assets/img/keutaman-petrus.webp
 author: Tim DKC
 ---
 
@@ -17,7 +17,7 @@ Fakta bahwa Petrus dijadikan sebagai fondasi Gereja memiliki implikasi praktis. 
 Di kutip dari
 
 
-![theFathersKnowBest-title](/assets/img/theFathersKnowBest.png)
+![theFathersKnowBest-title](/assets/img/theFathersKnowBest.webp)
 
 **ST. KLEMENS DARI ALEXANDRIA**
 

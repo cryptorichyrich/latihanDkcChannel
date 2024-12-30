@@ -4,8 +4,8 @@ title: "Dua Sifat Yesus Kristus: Perspektif Katolik"
 subtitle: "Dalam kodrat manusiawi-Nya, Yesus mengalami berbagai macam kondisi manusiawi: lapar, haus, lelah, dan bahkan kematian."
 tags: [Katolik, Dogma, Christology]
 comments: true
-cover-img: /assets/img/dua-nature-yesus.png
-thumbnail-img: /assets/img/dua-nature-yesus.png
+cover-img: /assets/img/dua-nature-yesus.webp
+thumbnail-img: /assets/img/dua-nature-yesus.webp
 author: Tim DKC
 ---
 
