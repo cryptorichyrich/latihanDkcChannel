@@ -39,9 +39,21 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="blog-post">
-        {{ content | toc }}
+      <div>
+        {% unless toc %}        
+        <div id="table-of-contents">
+          <h3>Daftar Isi</h3>
+          {% toc %}
+        </div>
+        {% else %}
+
+        {% endunless %}
+      
+        <div id="blog-post">
+          {{ content }}
+        </div>
       </div>
+          
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">

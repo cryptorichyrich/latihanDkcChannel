@@ -17,14 +17,14 @@ LIVE DKC 30 DESEMBER 2024: BUNDA MARIA BUKAN TABUT PERJANJIAN BARU ...??? ‪@jo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hcWLTDHdCG4?si=0zpFozRB7WfE7KNh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-**A. Mengapa Kita Harus Menghormati Bunda Maria?**
+## A. Mengapa Kita Harus Menghormati Bunda Maria?##
 1. Banyak orang non-Katolik kebingungan terkait penghormatan kita (umat Katolik) kepada Bunda Maria, yang menurut mereka adalah sosok perempuan biasa yang “secara kebetulan” mendapat tugas dari Allah melahirkan seorang penyelamat dunia. Benarkah pemahaman ini?
 2. Maria adalah seorang gadis Yahudi yang di usia belasan menjadi Bunda Yesus. Maria lahir di kota Sepphoris, sebelah utara Palestina, ibukota Galilea, sebuah kota besar dimana orang Yahudi dan Romawi hidup damai. Kota ini hancur dilanda gempa bumi ketika Maria masih kanak-kanak, yang kemudian pindah ke Nazareth, sebuah dusun kecil berpenduduk hanya 150 – 300 orang. Nazareth (Ibrani: lili/ bunga bakung atau simbol kehidupan dan arti lainnya “keturunan”). Keluarga Maria adalah keturunan Raja Daud, dan disanalah Maria bertemu dengan Yusuf, seorang tukang kayu yang usianya tidak jauh lebih tua daripada Maria. Selanjutnya mereka bertunangan selama satu tahun/ lebih. Sang gadis akan menenun dan melakukan pekerjaan rumah tangga, sang pria akan membangun rumah tempat tinggal mereka. Kisah selanjutnya adalah yang kita baca setiap hari Natal.
 3. Maria adalah Bunda Allah – Kita tidak boleh lupa bahwa Yesus adalah sungguh Allah dan sungguh manusia, sering menyebut diri-Nya sebagai “Anak Manusia.” Yesus tidak dapat dibagi dua: Yesus yang Allah dan Yesus yang Manusia, karena itu ibu-Nya juga disebut Bunda Allah.
 4. Maria adalah Bunda Kita – Menjelang ajal-Nya di salib, Yesus memberikan Maria kepada kita untuk menjadi bunda kita, juga ketika Ia menyerahkan Maria ke dalam pemeliharaan St. Yohanes Rasul dengan berkata “Inilah Ibumu.” Dengan demikian Yesus telah mengangkat kita sebagai anak-anak-Nya sendiri. Ingat bahwa ketika bangkit dari antara orang mati, Yesus berkata “Aku akan pergi kepada Allah-Ku dan Allah-mu, kepada Bapa-Ku dan Bapa-mu.” Jadi kita mempunyai Bapa dan Bunda yang sama dengan Yesus dan menjadi saudara-saudari-Nya atau merupakan satu keluarga yang mengagumkan!
 
-**B.	Bunda Maria Tabut Perjanjian Baru Yang Tak Bernoda**
-1. **Dasar Alkitabiah:**
+## B.	Bunda Maria Tabut Perjanjian Baru Yang Tak Bernoda
+1. #### Dasar Alkitabiah:
 
     - **Keluaran 25:11-21**Tabut Perjanjian Lama terbuat dari emas murni untuk Firman Tuhan. Maria adalah Tabut Perjanjian Baru dan merupakan bejana paling murni untuk Sabda Allah yang menjadi daging. 
     - **2 Samuel 6:7** – Tabut itu begitu suci, dan ketika Uza menyentuhnya, Tuhan membunuhnya, yang berarti Tabut itu tidak tercemar. Maria sang Tabut Perjanjian Baru bahkan lebih bersih dan tidak tercemar, dijauhkan Tuhan dari dosa asal agar dapat membawa Firman-Nya yang kekal di dalam rahimnya. 
@@ -46,7 +46,8 @@ LIVE DKC 30 DESEMBER 2024: BUNDA MARIA BUKAN TABUT PERJANJIAN BARU ...??? ‪@jo
     -  **Mikha 4:9-10** – Mikha juga menggambarkan Yerusalem yang dihinggapi rasa sakit bersalin seperti seorang wanita dalam persalinan. 
     -  **Wahyu 12:13-16** – Dalam ayat-ayat ini kita melihat Iblis masih berusaha menghancurkan perempuan, bahkan setelah Juruselamat lahir. Hal ini berarti Maria berbahaya bagi setan, bahkan setelah kelahiran Kristus karena Tuhan telah memberinya kekuatan menjadi perantara bagi kita, dan kita harus meminta bantuannya dalam kehidupan spiritual kita.
 
-**C. Tafsiran Bapa Gereja** tentang Wahyu 12:2 – **“Ia sedang mengandung dan dalam keluhan dan penderitaannya hendak melahirkan ia berteriak kesakitan.”**
+## C. Tafsiran Bapa Gereja
+Tafsiran Bapa Gereja tentang Wahyu 12:2 – **“Ia sedang mengandung dan dalam keluhan dan penderitaannya hendak melahirkan ia berteriak kesakitan.”**
 1. Mary Blushed Before Joseph – Oecumenius menulis: “Dan dia sedang mengandung.” Katanya “dan dia berteriak dalam kesakitan persalinannya, dalam penderitaan untuk melahirkan.” Jelaslah Yesaya berbicara tentang dia: “Sebelum dia merasa sakit, dia telah melahirkan, sebelum rasa sakit persalinannya, dia telah melahirkan seorang anak laki-laki.”
 
 Gregorius dalam Homili ke-tigabelas tentang Nyanyian mengenai Tuhan,

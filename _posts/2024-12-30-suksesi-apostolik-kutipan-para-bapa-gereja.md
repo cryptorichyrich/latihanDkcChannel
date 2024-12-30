@@ -10,14 +10,15 @@ author: Tim DKC
 toc: true
 ---
 
+## Introduksi
 
-**Suksesi Apostolik** adalah garis keturunan/suksesi para uskup mulai dari para rasul. Dia memainkan beberapa peran penting, salah satunya adalah mengawal Tradisi apostolik, seperti yang diungkapkan dalam petunjuk St. Paulus kepada Timotius, “Apa yang telah engkau dengar dari padaku di depan banyak saksi, percayakanlah itu kepada orang-orang yang dapat dipercayai, yang juga cakap mengajar orang lain” (2 Tim 2:2). Di sini ia mengacu pada empat generasi pertama masa kerasulan suksesi – generasinya sendiri, generasi Timotius, generasi yang akan diajar Timotius, dan generasi yang akan mereka ajar. Tentu saja, Paulus tidak membayangkan suksesi ini akan berakhir di sana, tetapi akan terus berlanjut selama dunia ini masih ada.
+**Suksesi Apostolik**  adalah garis keturunan/suksesi para uskup mulai dari para rasul. Dia memainkan beberapa peran penting, salah satunya adalah mengawal Tradisi apostolik, seperti yang diungkapkan dalam petunjuk St. Paulus kepada Timotius, “Apa yang telah engkau dengar dari padaku di depan banyak saksi, percayakanlah itu kepada orang-orang yang dapat dipercayai, yang juga cakap mengajar orang lain” (2 Tim 2:2). Di sini ia mengacu pada empat generasi pertama masa kerasulan suksesi – generasinya sendiri, generasi Timotius, generasi yang akan diajar Timotius, dan generasi yang akan mereka ajar. Tentu saja, Paulus tidak membayangkan suksesi ini akan berakhir di sana, tetapi akan terus berlanjut selama dunia ini masih ada.
 
 Para uskup Gereja, banyak dari mereka pada masa-masa awal adalah Gereja Para Bapa, adalah mata rantai dalam rantai suksesi kerasulan, dan para Bapa secara teratur mengajukan banding atas suksesi ini sebagai ujian terhadap doktrin yang benar. Namun hal ini adalah diperlukan karena para bidat dapat dengan mudah memberikan penafsirannya sendiri, entah itu aneh atau khayalan yang mendasarinya dari Kitab Suci. Sesuatu selain Kitab Suci diperlukan sebagai ujian doktrin dalam kasus ini.
 
 Oleh karena itu, sejarawan Gereja mula-mula J. N. D. Kelly, seorang Protestan, menulis, “Tetapi di manakah kesaksian atau tradisi apostolik ini dapat ditemukan dalam praktiknya? . . . Itu jawaban yang paling jelas adalah bahwa para rasul telah berkomitmen secara lisan kepada Gereja, dimana hal itu telah diwariskan dari generasi ke generasi. . . . Berbeda dengan tradisi rahasia yang diklaim oleh kaum Gnostik, tradisi apostolik ini sepenuhnya bersifat terbuka dan umum, telah diwariskan dari para rasul kepada para penerus mereka, dan kemudian kepada mereka yang mengikuti mereka. Informasi ini tersedia dan terlihat di dalam Gereja bagi siapa saja yang ingin mencarinya.” (Doktrin Kristen Awal, 37).
 
-Ia (J. N. D. Kelly) melanjutkan: “**Pertama**, identitas tradisi lisan dengan wahyu asli dijamin oleh suksesi tak terputus para uskup di Tahta-Agung yang berasal secara langsung dari para rasul. **Kedua**, Selain itu, sebuah perlindungan tambahan disediakan oleh Roh Kudus, karena pesan yang dipercayakan kepada Gereja, dan Gereja adalah rumah Roh. Memang, uskup-uskup Gereja adalah ... Orang-orang yang dikaruniai roh yang telah dianugerahi ‘karisma kebenaran yang sempurna’ (ibid., mengutip St. Irenaeus dari Lyons, Melawan Sesat 4:26:2).
+Ia (J. N. D. Kelly) melanjutkan: “## Pertama## , identitas tradisi lisan dengan wahyu asli dijamin oleh suksesi tak terputus para uskup di Tahta-Agung yang berasal secara langsung dari para rasul. ## Kedua## , Selain itu, sebuah perlindungan tambahan disediakan oleh Roh Kudus, karena pesan yang dipercayakan kepada Gereja, dan Gereja adalah rumah Roh. Memang, uskup-uskup Gereja adalah ... Orang-orang yang dikaruniai roh yang telah dianugerahi ‘karisma kebenaran yang sempurna’ (ibid., mengutip St. Irenaeus dari Lyons, Melawan Sesat 4:26:2).
 
 Dengan demikian, berdasarkan pengalaman, Bapa-Bapa Gereja dapat dengan yakin menyimpulkan bahwa sia-sia saja berdebat dengan bidat hanya berdasarkan Kitab Suci. Keterampilan dan keberhasilan mereka dalam memutarbalikkan makna yang jelas membuat mustahil untuk mencapai kesimpulan yang pasti dalam bidang itu” (Early Christian Doctrines,41).
 
@@ -26,7 +27,7 @@ Di kutip dari
 
 ![theFathersKnowBest-title](/assets/img/theFathersKnowBest.webp)
 
-**PAUS ST. KLEMEN I** 
+## PAUS ST. KLEMEN I
 
 > Dan demikianlah, dengan berkhotbah di seluruh negara dan kota, para
 > rasul menunjuk pemimpin teladan, yang telah diuji oleh Roh Kudus,
@@ -42,7 +43,7 @@ Di kutip dari
 > kepada Jemaat di Korintus 42:4-5; 44:1-2 (A.D. 70)\].
 
 
-**ST. HEGESIPPUS**
+## ST. HEGESIPPUS
 
 > Ketika saya tiba di Roma, saya tinggal di sana sampai masa
 > kepemimpinan Anicetus, yang diakonnya adalah Eleutherius. Anicetus
@@ -51,7 +52,7 @@ Di kutip dari
 > hukum, para nabi dan Tuhan. \[Memoirs, dikutip dalam Eusebius, Church
 > History 4:22:3 (c. 180 M)\].
 
-**ST. IRENEUS DARI LYON**
+## ST. IRENEUS DARI LYON
 
 > Ada dalam kuasa semua orang, di setiap Gereja, yang ingin melihat
 > kebenaran, untuk dengan jelas merenungkan Tradisi para rasul yang
@@ -123,7 +124,7 @@ Di kutip dari
 > mewariskan Gereja yang ada di mana-mana \[ibid, 4:33:8\].
 
 
-**TERTULLIAN DARI CARTHAGE**
+## TERTULLIAN DARI CARTHAGE
 
 
 
@@ -201,7 +202,7 @@ Di kutip dari
 > \[ibid., 32\].
 
 
-**ST. Cyprian dari Kartago**
+## ST. Cyprian dari Kartago
 
 > \[M\]aka Gereja itu satu, dan karena dia satu, tidak mungkin berada
 > baik di dalam maupun di luar. Karena jika Gereja bersama Novatian,
@@ -215,13 +216,13 @@ Di kutip dari
 > Gereja tidak dapat memiliki atau berpegang pada Gereja dengan cara apa
 > pun \[Surat 75:3 (254 M)\].
 
-**ST. JEROME**
+## ST. JEROME
 
 > Jauh dari tanggung jawab saya untuk mengecam penerus para rasul, yang
 > dengan kata-kata suci menguduskan tubuh Kristus, dan menjadikan kita
 > orang Kristen \[Surat 14:8 (c. A.D.376)\].
 
-**ST. AGUSTINUS HIPPO**
+## ST. AGUSTINUS HIPPO
 
 > Dalam Gereja Katolik dimana beberapa individu spiritual telah mencapai
 > kebijaksanaan mendalam dengan keyakinan yang tak tergoyahkan di masa
