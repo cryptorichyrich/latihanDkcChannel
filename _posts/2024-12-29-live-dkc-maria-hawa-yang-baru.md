@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.webp
 thumbnail-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.webp
 author: ~@♏
+toc: true
 ---
 
 **LIVE DKC 28 DESEMBER 2024: MENGAPA BUNDA MARIA DISEBUT SEBAGAI HAWA YANG BARU ...???**

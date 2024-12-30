@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/bunda-maria-bukan-tabut-perjanjian-baru.webp
 thumbnail-img: /assets/img/bunda-maria-bukan-tabut-perjanjian-baru.webp
 author: Tim DKC
+toc: true
 ---
 
 

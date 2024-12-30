@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/suksesi-apostolik.webp
 thumbnail-img: /assets/img/suksesi-apostolik.webp
 author: Tim DKC
+toc: true
 ---
 
 

@@ -8,6 +8,7 @@ comments: true
 cover-img: /assets/img/keutaman-petrus.webp
 thumbnail-img: /assets/img/keutaman-petrus.webp
 author: Tim DKC
+toc: true
 ---
 
 Para Bapa Gereja mula-mula memiliki kesadaran tentang Petrus sebagai batu karang yang di atasnya Gereja dibangun. Ini adalah sebuah metafora, tetapi seperti semua metafora, metafora itu memiliki makna.
