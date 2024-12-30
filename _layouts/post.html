@@ -85,8 +85,8 @@ layout: base
             </div>
             {% if thumbnail != "" %}
               <div class="article-thumbnail">
-                <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-                  <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+                <a href="{{ post.url | absolute_url | force_https }}" aria-label="Thumbnail">
+                  <img src="{{ thumbnail | absolute_url | force_https }}" alt="Post thumbnail">
                 </a>
               </div>
             {% endif %}
