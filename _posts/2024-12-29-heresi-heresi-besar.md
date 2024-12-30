@@ -1,7 +1,7 @@
 ---
 title: Heresi-Heresi Besar Yang Kontroversial
 subtitle: “Karena akan datang waktunya, orang tidak dapat menerima ajaran sehat, tetapi mereka akan mengumpulkan guru-guru menurut keinginannya untuk memuaskan keinginan telinganya. Mereka akan memalingkan telinganya dari kebenaran dan membukanya bagi dongeng” (2 Tim. 4:3–4).
-tags: [Heresy, Dogma, Katolik, History]
+tags: [Bidat, Dogma, Katolik, History]
 cover-img: /assets/img/great-heresy.png
 thumbnail-img: /assets/img/great-heresy.png
 author: Agustinus Biotamalo Lumbantoruan
