@@ -3,7 +3,7 @@ layout: post
 title: "Keutamaan Petrus"
 subtitle: "Fakta bahwa Petrus dijadikan sebagai fondasi Gereja memiliki implikasi praktis. Hal ini memberinya tempat khusus atau keutamaan di antara para rasul. Seperti yang ditunjukkan oleh ayat-ayat di bawah ini ayat-ayat di bawah ini menunjukkan, para Bapa Gereja mula-mula juga mengakui hal ini.
 "
-tags: [Katolik, Sejarah]
+tags: [Katolik, Sejarah, Paus]
 comments: true
 cover-img: /assets/img/keutaman-petrus.png
 thumbnail-img: /assets/img/keutaman-petrus.png
