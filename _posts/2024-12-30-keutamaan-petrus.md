@@ -118,7 +118,35 @@ Di kutip dari
 
 **ST. EPHRAIM ORANG SYRIA**
 
-\[Yesus berkata:\] Simon, pengikut-Ku, Aku telah menjadikan engkau dasar Gereja. Aku telah menamai engkau Petrus, karena engkau akan menopang semua bangunannya. Engkau adalah inspektur bagi mereka yang akan membangun di bumi sebuah Gereja bagi-Ku. Jika mereka ingin membangun sesuatu yang palsu, engkau, sebagai batu penjuru, akan mengutuk mereka. Kamulah kepala dari mata air yang darinya ajaran-Ku mengalir; Kamulah kepala dari murid-murid-Ku. Melalui kamu Aku akan memberi minum kepada semua orang. Engkaulah manisnya kehidupan yang Aku berikan. Aku telah memilihmu untuk menjadi, seolah-olah, yang sulung dalam institusi-Gereja-Ku, juga sebagai pewaris, kamu dapat menjadi pelaksana harta saya. Aku telah memberikan kepadamu kunci-kunci kerajaan-Ku. Lihatlah, Aku telah memberikan kepadamu kepadamu kuasa atas segala harta-Ku \[Homili 4:1 (sekitar tahun 353 M)\].
+
+
+> \[Yesus berkata:\] Simon, pengikut-Ku, Aku telah menjadikan engkau
+> dasar Gereja. Aku telah menamai engkau Petrus, karena engkau akan
+> menopang semua bangunannya. Engkau adalah inspektur bagi mereka yang
+> akan membangun di bumi sebuah Gereja bagi-Ku. Jika mereka ingin
+> membangun sesuatu yang palsu, engkau, sebagai batu penjuru, akan
+> mengutuk mereka. Kamulah kepala dari mata air yang darinya ajaran-Ku
+> mengalir; Kamulah kepala dari murid-murid-Ku. Melalui kamu Aku akan
+> memberi minum kepada semua orang. Engkaulah manisnya kehidupan yang
+> Aku berikan. Aku telah memilihmu untuk menjadi, seolah-olah, yang
+> sulung dalam institusi-Gereja-Ku, juga sebagai pewaris, kamu dapat
+> menjadi pelaksana harta saya. Aku telah memberikan kepadamu
+> kunci-kunci kerajaan-Ku. Lihatlah, Aku telah memberikan kepadamu
+> kepadamu kuasa atas segala harta-Ku \[Homili 4:1 (sekitar tahun 353
+> M)\].\[Yesus berkata:\] Simon, pengikut-Ku, Aku telah menjadikan
+> engkau dasar Gereja. Aku telah menamai engkau Petrus, karena engkau
+> akan menopang semua bangunannya. Engkau adalah inspektur bagi mereka
+> yang akan membangun di bumi sebuah Gereja bagi-Ku. Jika mereka ingin
+> membangun sesuatu yang palsu, engkau, sebagai batu penjuru, akan
+> mengutuk mereka. Kamulah kepala dari mata air yang darinya ajaran-Ku
+> mengalir; Kamulah kepala dari murid-murid-Ku. Melalui kamu Aku akan
+> memberi minum kepada semua orang. Engkaulah manisnya kehidupan yang
+> Aku berikan. Aku telah memilihmu untuk menjadi, seolah-olah, yang
+> sulung dalam institusi-Gereja-Ku, juga sebagai pewaris, kamu dapat
+> menjadi pelaksana harta saya. Aku telah memberikan kepadamu
+> kunci-kunci kerajaan-Ku. Lihatlah, Aku telah memberikan kepadamu
+> kepadamu kuasa atas segala harta-Ku \[Homili 4:1 (sekitar tahun 353
+> M)\].
 
 **ST. AMBROSIUS DARI MILAN**
 

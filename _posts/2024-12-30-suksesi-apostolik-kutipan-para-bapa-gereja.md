@@ -139,9 +139,8 @@ Di kutip dari
 > semua adalah apostolik, sementara mereka semua terbukti menjadi satu,
 > dalam kesatuan \[yang tak terputus\]  \[Prescription Against Heretics
 > 20 (sekitar tahun 200 M)\].
-> 
-> 
-> 
+
+
 > Apa yang Kristus wahyukan kepada para rasul hanya dapat diverifikasi
 > melalui gereja-gereja yang mereka dirikan secara pribadi, tempat
 > mereka secara langsung mewartakan Injil. Jika demikian halnya, maka
@@ -155,9 +154,8 @@ Di kutip dari
 > tetapkan aturannya, berasal dari Tradisi para rasul dan apakah
 > doktrin-doktrin lain secara faktual berasal dari
 > kepalsuan/bidat/kebohongan. \[ibid., 21\].
-> 
-> 
-> 
+
+
 > Tetapi jika ada (bidat-bidat) yang cukup berani untuk menempatkan diri
 > mereka di tengah-tengah zaman Para Rasul, agar dengan demikian mereka
 > seakan-akan nampak telah diwariskan oleh para rasul, karena mereka ada
