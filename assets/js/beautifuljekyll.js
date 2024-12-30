@@ -31,8 +31,29 @@ let BeautifulJekyllJS = {
     BeautifulJekyllJS.initSearch();
 
     BeautifulJekyllJS.initTOC();
-  },
 
+    BeautifulJekyllJS.initScrollToTop();
+  },
+  initScrollToTop: function(){
+    const scrollToTopButton = document.getElementById('scrollToTop');
+
+    // Show or hide the button when scrolling
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > 300) { // Show button after scrolling 300px
+        scrollToTopButton.style.display = 'block';
+      } else {
+        scrollToTopButton.style.display = 'none';
+      }
+    });
+  
+    // Smooth scroll to the top
+    scrollToTopButton.addEventListener('click', function () {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth', // Smooth scrolling animation
+      });
+    });
+  },
   initTOC: function () {
     const blogPost = document.querySelector('#blog-post');
     const tocContainer = document.querySelector('#toc');

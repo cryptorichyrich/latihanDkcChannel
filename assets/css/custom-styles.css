@@ -125,3 +125,17 @@ border-radius: 3px;
 .toc-depth-6::before {
   content: "▪ "; /* Custom bullet for level 6 */
 }
+
+#scrollToTop {
+  background-color: var(--hover-col);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: opacity 0.3s;
+}
+
+#scrollToTop:hover {
+  background-color: var(--hover-col);
+}
