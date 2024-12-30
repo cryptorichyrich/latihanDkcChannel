@@ -6,7 +6,7 @@ tags: [Katolik, Dogma, Maria]
 comments: true
 cover-img: /assets/img/maria-di-dalam-alkitab.png
 thumbnail-img: /assets/img/maria-di-dalam-alkitab.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 Kami mendapat email dari seorang Evangelis yang bermaksud baik yang mengatakan:

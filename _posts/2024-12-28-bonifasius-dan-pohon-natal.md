@@ -7,7 +7,7 @@ comments: true
 
 cover-img: /assets/img/boniface-and-christmas-tree.png
 thumbnail-img: /assets/img/boniface-and-christmas-tree.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 Dengan Natal yang baru saja berlalu, ada baiknya kita mengingat St. Bonifasius (680–754), yang dikenal dalam sejarah Gereja sebagai rasul bagi orang-orang Jerman. Bonifasius dianggap sebagai "mungkin misionaris terbesar sejak St. Paulus" karena perjalanannya yang luas dan upaya penginjilannya yang berhasil di Jerman modern [\[1\]](#_ftn1). Meskipun ia terkenal sebagai uskup dan penginjil yang hebat, legenda Katolik, berdasarkan peristiwa sejarah yang sebenarnya, juga menyatakan bahwa Bonifasius adalah pencetus penggunaan pohon Natal untuk merayakan kelahiran Anak Kristus.

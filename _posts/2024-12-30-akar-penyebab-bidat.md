@@ -6,7 +6,7 @@ tags: [Bidat]
 comments: true
 cover-img: /assets/img/root-problem-heresy.jpg
 thumbnail-img: /assets/img/root-problem-heresy.jpg
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 

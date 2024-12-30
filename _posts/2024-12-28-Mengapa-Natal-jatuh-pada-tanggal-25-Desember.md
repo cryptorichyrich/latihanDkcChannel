@@ -7,7 +7,7 @@ comments: true
 
 cover-img: /assets/img/kenapa-25-desember.png
 thumbnail-img: /assets/img/kenapa-25-desember.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 

@@ -6,7 +6,7 @@ tags: [Katolik, Dogma, Maria]
 comments: true
 cover-img: /assets/img/10-alasan-bunda-maria.png
 thumbnail-img: /assets/img/10-alasan-bunda-maria.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 Kaum Evangelis dan Protestan arus utama dapat mengasihi Maria dan berdoa bersamanya. Berikut alasannya.

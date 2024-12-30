@@ -6,7 +6,7 @@ comments: true
 
 cover-img: /assets/img/peter-authority.png
 thumbnail-img: /assets/img/peter-authority.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 Ketika saya mengikuti kelas doktrin Alkitab di Universitas Bob Jones, salah satu ayat yang harus kami hafalkan adalah Matius 16:18: “Aku berkata kepadamu: Engkau adalah Petrus dan di atas batu karang ini Aku akan mendirikan jemaat-Ku dan alam maut tidak akan menguasainya.”

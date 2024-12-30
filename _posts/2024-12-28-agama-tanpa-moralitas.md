@@ -7,7 +7,7 @@ comments: true
 
 cover-img: /assets/img/404-southpark.jpg
 thumbnail-img: /assets/img/404-southpark.jpg
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 

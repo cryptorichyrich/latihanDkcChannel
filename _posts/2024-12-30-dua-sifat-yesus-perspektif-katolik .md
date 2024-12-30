@@ -6,7 +6,7 @@ tags: [Katolik, Dogma, Christology]
 comments: true
 cover-img: /assets/img/dua-nature-yesus.png
 thumbnail-img: /assets/img/dua-nature-yesus.png
-author: Miyabi Gendut
+author: Tim DKC
 ---
 
 Misteri sifat ganda Yesus Kristus sebagai pribadi yang sepenuhnya ilahi dan sepenuhnya manusiawi terletak di jantung teologi Kristen. Ajaran ini, yang berakar pada Kitab Suci dan ditegaskan oleh Gereja melalui refleksi selama berabad-abad, menggarisbawahi kebenaran yang mendalam: Yesus Kristus adalah satu pribadi dengan dua sifat—ilahi dan manusiawi. Doktrin ini, yang dikenal sebagai Persatuan Hipostatik, menawarkan jembatan antara Tuhan dan manusia, memberikan pemahaman yang mendalam tentang keselamatan dan inkarnasi. Mari kita selami lebih dalam misteri yang mendalam ini.

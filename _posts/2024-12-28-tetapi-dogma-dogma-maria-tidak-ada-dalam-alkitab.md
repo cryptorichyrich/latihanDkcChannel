@@ -7,7 +7,7 @@ comments: true
 
 cover-img: /assets/img/mary-dogma.png
 thumbnail-img: /assets/img/mary-dogma.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 

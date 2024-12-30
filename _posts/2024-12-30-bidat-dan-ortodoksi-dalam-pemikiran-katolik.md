@@ -6,7 +6,7 @@ tags: [Bidat]
 comments: true
 cover-img: /assets/img/bidat-dalam-pemahaman-katolik.png
 thumbnail-img: /assets/img/bidat-dalam-pemahaman-katolik.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 
 Ketika membahas masalah agama yang kontroversial, umat Katolik sebaiknya berhati-hati dalam memilih kata-kata. Dua istilah yang sering muncul dalam diskusi seperti ini adalah *bidat* dan *ortodoksi*. Kedua kata ini memiliki makna yang mendalam dan sebaiknya digunakan secara hemat dan benar agar terhindar dari kesalahpahaman atau perpecahan.

@@ -4,7 +4,7 @@ subtitle: “Karena akan datang waktunya, orang tidak dapat menerima ajaran seha
 tags: [Bidat, Dogma, Katolik, sejarah]
 cover-img: /assets/img/great-heresy.png
 thumbnail-img: /assets/img/great-heresy.png
-author: Agustinus Biotamalo Lumbantoruan
+author: Tim DKC
 ---
 Sejak awal Kekristenan, Gereja telah diserang oleh mereka yang memperkenalkan ajaran-ajaran palsu, atau ajaran sesat.
 
