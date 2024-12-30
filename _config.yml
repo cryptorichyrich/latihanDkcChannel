@@ -36,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/dkc-transformed.png
 
 
 #####################################
@@ -120,7 +120,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Apologetic, Katolik, Dogma, Gereja, Paus, Tuhan Yesus, DKC"
 
 ######################################
 # --- Colours / background image --- #
@@ -133,7 +133,7 @@ text-col: "#404040"
 link-col: "#c8a970"
 hover-col: "#c8a970"
 navbar-col: "#EAEAEA"
-navbar-text-col: "#c8a970"
+navbar-text-col: "#fff"
 navbar-border-col: "#000"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"

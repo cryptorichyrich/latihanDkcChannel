@@ -61,12 +61,12 @@
   }
 
   .page-subheading{
-    color:var(--navbar-text-col);
+    color:var(--hover-col);
     font-weight: bold !important;
   }
 
   #search-results-container a{
-    color:var(--navbar-text-col) !important;
+    color:var(--hover-col) !important;
   }
 
 .btn-whatsapp{color:#000;background-color:#168e00;border-color:rgba(0,0,0,0.2)}.btn-whatsapp:focus,.btn-whatsapp.focus{color:#000;background-color:#bcddff;border-color:rgba(0,0,0,0.2)}
