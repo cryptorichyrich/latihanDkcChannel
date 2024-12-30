@@ -24,7 +24,7 @@
       <div class="col-xl-10 offset-xl-1 col-lg-12"> 
         <div class="{{ include.type }}-heading">
           <h1>
-            {% if page.url == "/" or page.url == "/index.html" %}
+            {% if page.url == "/" or page.url == "/index.html" or page.url contains "page" %}
               {{ page.indexTitle | strip_html }}
             {% elsif page.title %}
               {{ page.title | strip_html }}
