@@ -61,7 +61,7 @@ let BeautifulJekyllJS = {
     if (blogPost && tocContainer) {
       const headings = blogPost.querySelectorAll('h1, h2, h3, h4, h5, h6');
       const tocList = document.createElement('div');
-      tocList.innerHTML = "<h2>Table of Contents</h2><ul></ul>";
+      tocList.innerHTML = "<h2>Daftar Isi</h2><ul></ul>";
   
       headings.forEach((heading, index) => {
         // Generate unique IDs for headings
