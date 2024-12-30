@@ -90,9 +90,3 @@ Setelah Anda mengembangkan rasa percaya diri, Anda dapat berkata kepada diri sen
 Dan bagaimana dengan misionaris itu? Apakah dia pergi dengan membawa sesuatu? Saya kira begitu. Saya kira dia pergi dengan keraguan mengenai pemahamannya (atau kurangnya pemahamannya) tentang umat Katolik dan iman Katolik. Saya harap keraguannya telah berkembang menjadi perasaan bahwa mungkin, mungkin saja, umat Katolik memiliki sesuatu untuk dikatakan atas nama agama mereka dan bahwa dia harus lebih cermat menyelidiki Iman yang pernah dia lawan dengan begitu yakin.
 
 * * *
-
-NIHIL OBSTAT: Saya telah menyimpulkan bahwa materi yang disajikan dalam karya ini bebas dari kesalahan doktrinal atau moral. Bernadeane Carr, STL, Censor Librorum, 10 Agustus 2004
-
-IMPRIMATUR: Sesuai dengan 1983 CIC 827
-dengan ini diberikan izin untuk menerbitkan karya ini.
-+Robert H. Brom, Uskup San Diego, 10 Agustus 2004
