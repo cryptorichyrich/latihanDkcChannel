@@ -75,3 +75,13 @@
 .btn-whatsapp:active,.btn-whatsapp.active,.open>.dropdown-toggle.btn-whatsapp{background-image:none}
 .btn-whatsapp.disabled,.btn-whatsapp[disabled],fieldset[disabled] .btn-whatsapp,.btn-whatsapp.disabled:hover,.btn-whatsapp[disabled]:hover,fieldset[disabled] .btn-whatsapp:hover,.btn-whatsapp.disabled:focus,.btn-whatsapp[disabled]:focus,fieldset[disabled] .btn-whatsapp:focus,.btn-whatsapp.disabled.focus,.btn-whatsapp[disabled].focus,fieldset[disabled] .btn-whatsapp.focus,.btn-whatsapp.disabled:active,.btn-whatsapp[disabled]:active,fieldset[disabled] .btn-whatsapp:active,.btn-whatsapp.disabled.active,.btn-whatsapp[disabled].active,fieldset[disabled] .btn-whatsapp.active{background-color:#eff7ff;border-color:rgba(0,0,0,0.2)}
 .btn-whatsapp .badge{color:#eff7ff;background-color:#000}
+
+.youtube-container {
+  display: flex;
+  justify-content: center;
+}
+  
+iframe {
+  aspect-ratio: 16 / 9;
+  width: 100% !important;
+}
