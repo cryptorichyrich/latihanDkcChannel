@@ -12,7 +12,9 @@ author: Tim DKC
 
 LIVE DKC 30 DESEMBER 2024: BUNDA MARIA BUKAN TABUT PERJANJIAN BARU ...??? ‪@joerider_official
 
+<div class="ratio ratio-16x9" id="youtube-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hcWLTDHdCG4?si=0zpFozRB7WfE7KNh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **A. Mengapa Kita Harus Menghormati Bunda Maria?**
 1. Banyak orang non-Katolik kebingungan terkait penghormatan kita (umat Katolik) kepada Bunda Maria, yang menurut mereka adalah sosok perempuan biasa yang “secara kebetulan” mendapat tugas dari Allah melahirkan seorang penyelamat dunia. Benarkah pemahaman ini?
