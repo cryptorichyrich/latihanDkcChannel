@@ -630,7 +630,7 @@ footer .footer-custom-content {
 
 .blog-tags a:hover {
   opacity: 1;
-  color: var(--text-col);
+  color: var(--navbar-text-col);
   border-color: var(--text-col);
 }
 
