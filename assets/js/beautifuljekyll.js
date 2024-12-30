@@ -104,7 +104,7 @@ let BeautifulJekyllJS = {
   },
 
   setImg : function(src, desc) {
-    $(".intro-header.big-img").css("background-image", 'url(' + src.replace('http://', 'https://') + ')');
+    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
     if (typeof desc !== typeof undefined && desc !== false) {
       $(".img-desc").text(desc).show();
     } else {
