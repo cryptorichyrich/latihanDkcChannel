@@ -40,16 +40,9 @@ layout: base
       {% endif %}
 
       <div>
-        {% unless toc %}        
-        <div id="table-of-contents">
-          <h3>Daftar Isi</h3>
-          {% toc %}
-        </div>
-        {% else %}
-
-        {% endunless %}
-      
         <div id="blog-post">
+          <div id="toc">            
+          </div>
           {{ content }}
         </div>
       </div>
