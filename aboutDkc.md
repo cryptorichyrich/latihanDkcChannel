@@ -27,7 +27,6 @@ Kami selalu terbuka untuk komunikasi dan kolaborasi. Silakan hubungi kami melalu
 - **Youtube**: [@damaikasihchannel9153](https://www.youtube.com/@damaikasihchannel9153)  
 - **Tiktok**: [@dkc_team.apologetik](https://www.tiktok.com/@dkc_team.apologetik)  
 - **Tiktok**: [@dkc_team.apologet](https://www.tiktok.com/@dkc_team.apologet)
-
 - **Tiktok**: [@damaikasihchannel](https://www.tiktok.com/@damaikasihchannel)
 - **Instagram**: [@damaiKasihChannel](https://www.instagram.com/damaikasihchannel/)  
 
