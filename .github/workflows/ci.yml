@@ -1,28 +1,56 @@
 name: Beautiful Jekyll CI
+
 on: [push, pull_request]
+
 jobs:
   build:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout repository
       - uses: actions/checkout@v4
+
+      # Step 2: Set up Ruby environment
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+
+      # Step 3: Install Ruby dependencies
       - name: Install dependencies
         run: bundle install && bundle exec appraisal install
+
+      # Step 4: Set up Node.js for TinaCMS
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # Step 5: Install TinaCMS dependencies
+      - name: Install TinaCMS
+        run: |
+          npm install tinacms @tinacms/api-git @tinacms/git @tinacms/form-builder
+
+      # Step 6: Configure GitHub Pages settings
       - name: Setup Pages
         id: configure-pages
         uses: actions/configure-pages@v5
+
+      # Step 7: Set up CI-specific Jekyll configuration
       - name: Setup CI config
         run: |
           echo "---" > _config_ci.yml
           echo "baseurl: ${{ steps.configure-pages.outputs.base_path }}" >> _config_ci.yml
+
+      # Step 8: Build the Jekyll site
       - name: Build site
         env:
           JEKYLL_ENV: production
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
+
+      # Step 9: Upload the build artifact for Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+
+      # Step 10: Create CNAME file for custom domain
       - name: Create CNAME file for custom domain
-        run: echo 'damaikasihchannel.com' > ./dist/CNAME        
+        run: echo 'damaikasihchannel.com' > ./dist/CNAME
