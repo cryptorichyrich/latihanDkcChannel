@@ -48,8 +48,8 @@ layout: base
           <div id="blog-content">
             {{ content }}
 
-            {% if page.sumber %}              
-            <strong>Sumber : <a href="{{page.sumber}}">{{page.judul-asli}} by {{page.penulis-asli}}</a></strong>          
+            {% if page.sumber and page.judul-asli and page.penulis-asli %}              
+            <strong>Sumber : <a href="{{page.sumber}}" target="_blank">{{page.judul-asli}} by {{page.penulis-asli}}</a></strong>          
             {% endif %}
           </div>
         </div>

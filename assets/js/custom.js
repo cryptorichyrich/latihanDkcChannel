@@ -12,14 +12,12 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!isCollapsed) {
         toc.classList.remove("collapsed");
         isCollapsed = true;
-        console.log("MUNCUL");
       }
     } else {
       // .intro-header is not visible
       if (isCollapsed) {
         toc.classList.add("collapsed");
         isCollapsed = false;
-        console.log("HILANG");
       }
     }
   };
@@ -58,4 +56,18 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
   });
+
+  function isElementInView() {
+    const rect = introHeader.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= window.innerHeight &&
+      rect.right <= window.innerWidth
+    );
+  }
+  toc.classList.add("collapsed");
+  isCollapsed = false;  
+  console.log(isElementInView() ? "Intro header is visible" : "Intro header is not visible");
+  
 });
