@@ -1,30 +1,31 @@
 document.addEventListener("DOMContentLoaded", () => {
   const toc = document.getElementById("toc");
   const mainNavbar = document.getElementById("main-navbar");
+  const introHeader = document.querySelector(".intro-header");
   let isCollapsed = false;
-  let debounceTimer = null;
 
-  // Debounce function
-  const debounce = (func, delay) => {
-    return (...args) => {
-      clearTimeout(debounceTimer);
-      debounceTimer = setTimeout(() => func(...args), delay);
-    };
-  };
+  // Handle TOC collapse/expand when .intro-header is visible
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting && !isCollapsed) {
+          toc.classList.remove("collapsed");
+          isCollapsed = true;
+          console.log("MUNCUL");
+        } else if (!entry.isIntersecting && isCollapsed) {
+          toc.classList.add("collapsed");
+          isCollapsed = false;          
+          console.log("HILANG");
+        }
+      });
+    },
+    { root: null, threshold: 0.1 } // Adjust threshold as needed
+  );
 
-  // Handle scroll behavior with debounce
-  const handleScroll = () => {
-    const tocRect = toc.getBoundingClientRect();
-    if (tocRect.top <= 60 && !isCollapsed) {
-      toc.classList.add("collapsed");
-      isCollapsed = true;
-    } else if (tocRect.top > 60 && isCollapsed) {
-      toc.classList.remove("collapsed");
-      isCollapsed = false;
-    }
-  };
-
-  window.addEventListener("scroll", debounce(handleScroll, 50));
+  // Observe the .intro-header element
+  if (introHeader) {
+    observer.observe(introHeader);
+  }
 
   // Handle click to toggle collapse/expand
   toc.addEventListener("click", (event) => {
