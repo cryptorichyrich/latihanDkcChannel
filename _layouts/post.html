@@ -47,6 +47,10 @@ layout: base
           <div id="toc-detector"></div>
           <div id="blog-content">
             {{ content }}
+
+            {% if page.sumber %}              
+            <strong>Sumber : <a href="{{page.sumber}}">{{page.judul-asli}} by {{page.penulis-asli}}</a></strong>          
+            {% endif %}
           </div>
         </div>
       </div>
@@ -61,6 +65,7 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
+   
 
       {% if page.after-content %}
         <div class="after-content">

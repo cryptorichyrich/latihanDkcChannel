@@ -64,6 +64,13 @@
           </div>            
             {% endif %}                      
           {% endif %}
+
+          {% assign word_count = content | strip_html | replace: "\n", " " | split: " " | size %}
+          {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
+          
+          <div>
+            <p><strong>{{ reading_time }} menit bacaan</strong></p>
+          </div>             
         </div>
       </div>
     </div>

@@ -280,7 +280,7 @@ defaults:
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "page"
+      layout: "page"  
 
 # Exclude these files from production site
 exclude:
@@ -309,3 +309,4 @@ html_press:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+reading_speed: 220
