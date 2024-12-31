@@ -55,7 +55,7 @@ Luther memberikan Perawan Terberkati posisi yang ditinggikan sebagai "Ibu Spirit
 
 {Pelikan, _ibid.,_ v.22:214-15 / _Khotbah tentang Yohanes_, bab 1-4 (1539)}
 
-> Kebohongan baru tentang saya sedang disebarkan. Saya seharusnya telah berkhotbah dan menulis bahwa Maria, ibu Tuhan, bukanlah seorang perawan baik sebelum maupun setelah kelahiran Kristus . . .
+> Kebohongan baru tentang saya sedang disebarkan. Saya diduga telah berkhotbah dan menulis bahwa Maria, ibu Tuhan, bukanlah seorang perawan baik sebelum maupun setelah kelahiran Kristus . . .
 
 {Pelikan, _ibid.,_v.45:199 / _Bahwa Yesus Kristus Lahir sebagai Orang Yahudi_ (1523)}
 
