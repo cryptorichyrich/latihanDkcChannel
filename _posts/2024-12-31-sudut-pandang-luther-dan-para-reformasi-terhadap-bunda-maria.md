@@ -28,7 +28,8 @@ judul-asli: "Martin Luther (founder of the reform), speaks on Mary"
 > Tidak ada wanita seperti Anda. Anda lebih dari Hawa atau Sarah, diberkati di atas semua kemuliaan, kebijaksanaan, dan kekudusan.
 > _(Khotbah, Hari Raya Kunjungan Maria, 1537)_
 >
-> Kita harus menghormati Maria sebagaimana ia sendiri inginkan dan sebagaimana ia ungkapkan dalam Magnificat. Ia memuji Tuhan atas perbuatan-Nya. Lalu, bagaimana kita dapat memujinya? Kehormatan sejati Maria adalah kehormatan Tuhan, pujian atas kasih karunia Tuhan . . . Maria tidak ada apa-apanya demi dirinya sendiri, tetapi demi Kristus . . . Maria tidak menghendaki kita datang kepadanya, tetapi melalui dia kepada Tuhan. > _(Penjelasan Magnificat, 1521)_
+> Kita harus menghormati Maria sebagaimana ia sendiri inginkan dan sebagaimana ia ungkapkan dalam Magnificat. Ia memuji Tuhan atas perbuatan-Nya. Lalu, bagaimana kita dapat memujinya? Kehormatan sejati Maria adalah kehormatan Tuhan, pujian atas kasih karunia Tuhan . . . Maria tidak ada apa-apanya demi dirinya sendiri, tetapi demi Kristus . . . Maria tidak menghendaki kita datang kepadanya, tetapi melalui dia kepada Tuhan. 
+> _(Penjelasan Magnificat, 1521)_
 
 Luther memberikan Perawan Terberkati posisi yang ditinggikan sebagai "Ibu Spiritual" bagi orang Kristen:
 
@@ -87,7 +88,8 @@ Luther memberikan Perawan Terberkati posisi yang ditinggikan sebagai "Ibu Spirit
 > "Luther . . . bahkan tidak mempertimbangkan kemungkinan bahwa Maria mungkin memiliki anak-anak lain selain Yesus. Ini konsisten dengan penerimaan seumur hidupnya terhadap gagasan tentang keperawanan abadi Maria."
 > {Pelikan, _ibid.,_v.22:214-5}
 >
-> ". . . dalam resolusi 95 tesis Luther menolak setiap penghujatan terhadap Perawan, dan berpikir bahwa seseorang harus meminta pengampunan atas kejahatan apa pun yang dikatakan atau dipikirkan terhadapnya." > (Ref: Wm. J. Cole, "Apakah Luther Seorang Pengikut Maria?" dalam Studi Marian 1970, hlm. 116:)
+> ". . . dalam resolusi 95 tesis Luther menolak setiap penghujatan terhadap Perawan, dan berpikir bahwa seseorang harus meminta pengampunan atas kejahatan apa pun yang dikatakan atau dipikirkan terhadapnya." 
+> (Ref: Wm. J. Cole, "Apakah Luther Seorang Pengikut Maria?" dalam Studi Marian 1970, hlm. 116:)
 >
 > "Dalam Penjelasan Luther tentang Magnificat pada tahun 1521, ia memulai dan mengakhiri dengan seruan kepada Maria, yang menurut Wright harus disebut 'mengejutkan'".
 > (Hugh F. Wright, Dipilih oleh Tuhan: Maria dalam Perspektif Evangelis, London: Marshall Pickering, 1989, hlm. 178, Dikutip dari Faith & Reason, Musim Semi 1994, hlm. 6.)
@@ -101,7 +103,7 @@ Luther memberikan Perawan Terberkati posisi yang ditinggikan sebagai "Ibu Spirit
 
 {_Harmony of Matthew, Mark & ​​Luke_, bagian. 39 (Jenewa, 1562), vol. 2 / Dari _Calvin's Commentaries_, diterjemahkan oleh William Pringle, Grand Rapids, MI: Eerdmans, 1949, hlm. 215; tentang Matius 13:55}
 
-> \[Tentang Matius 1:25:\] Kesimpulan yang diambil oleh \[Helvidius\] darinya adalah bahwa Maria tetap perawan tidak lebih lama dari kelahiran pertamanya, dan bahwa setelah itu ia memiliki anak-anak lain dari suaminya . . . Tidak ada kesimpulan yang adil dan berdasar yang dapat diambil dari kata-kata ini . . . tentang apa yang terjadi setelah kelahiran Kristus. Ia disebut 'anak sulung'; tetapi tujuan utamanya adalah untuk memberi tahu kita bahwa ia dilahirkan dari seorang perawan . . . Apa yang terjadi setelahnya tidak diberitahukan oleh sejarawan kepada kita . . . Tidak ada orang yang akan dengan keras kepala mempertahankan argumen tersebut, kecuali karena sangat gemar berdebat.
+> \[Tentang Matius 1:25:\] Kesimpulan yang diambil oleh \[Helvidius\] darinya adalah bahwa Maria tetap perawan tidak lebih lama dari kelahiran pertamanya, dan bahwa setelah itu ia memiliki anak-anak lain dari suaminya . . . Tidak ada kesimpulan yang benar dan berdasar yang dapat diambil dari kata-kata ini . . . tentang apa yang terjadi setelah kelahiran Kristus. Ia disebut 'anak sulung'; tetapi tujuan utamanya adalah untuk memberi tahu kita bahwa ia dilahirkan dari seorang perawan . . . Apa yang terjadi setelahnya tidak diberitahukan oleh sejarawan kepada kita . . . Tidak ada orang yang akan dengan keras kepala mempertahankan argumen tersebut, kecuali karena sangat gemar berdebat.
 
 {Pringle, _ibid_., jilid I, hal. 107}
 
