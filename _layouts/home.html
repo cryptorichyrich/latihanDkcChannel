@@ -98,9 +98,12 @@ layout: page
       {% assign word_count = post.content | strip_html | replace: "\n", " " | split: " " | size %}
       {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
       
+      {% if post.url != "" %}
+
       <div>
         <p><strong>{{ reading_time }} menit bacaan</p></strong>
       </div>
+    {% endif %}        
       
 
     </article>
