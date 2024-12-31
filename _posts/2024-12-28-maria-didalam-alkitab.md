@@ -66,8 +66,6 @@ Kaca pembesar memperbesar objek yang difokuskannya, jadi berada dalam hubungan d
 
 Umat Katolik percaya bahwa jiwa Maria masih "memuliakan Tuhan" bagi orang Kristen generasi kita yang memilih untuk berhubungan dengannya. Saat ini, umat Katolik adalah satu-satunya yang menjunjung tinggi nubuat Alkitab untuk menyebutnya terberkati, yang dimaksudkan untuk _**semua**_ generasi, dan untuk semua orang Kristen.
 
-Berikut video yang bagus tentang apa yang Alkitab katakan tentang Maria:
-
 Maria adalah Tabut Perjanjian Baru
 -----------------------------------
 
