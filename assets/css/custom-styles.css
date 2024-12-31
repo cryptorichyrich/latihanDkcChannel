@@ -114,6 +114,10 @@ iframe {
   max-height: calc(1.5em + 25px); /* Approximate h2 height */
   }
 
+#toc a{
+  font-weight:bold;
+}
+
 #toc.collapsed::after {  
   position: absolute;
   right: 10px;
