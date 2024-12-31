@@ -2,7 +2,7 @@
 layout: post
 title: "Apakah Gereja Mula-Mula Tidak Mengakui Keutamaan Petrus?"
 subtitle: "Banyak Protestan gagal menyadari bahwa Tuhan juga menetapkan struktur Gereja-Nya. Tentu akan aneh jika Tuhan, setelah menghabiskan begitu banyak waktu untuk membentuk dan mengolah struktur dan kepemimpinan umat-Nya—dari para bapa leluhur hingga para hakim, para imam, nabi, dan raja-raja Israel hingga para rasul—harus memutuskan bahwa Ia tidak lagi peduli untuk menetapkan rancangan bagi Gereja yang Ia ciptakan dan membiarkannya begitu saja tergantung pada rancangan kita sendiri yang rusak."
-tags: [Katolik, Paus, Sejarah]
+tags: [Katolik, Paus, Sejarah, Reformasi]
 comments: true
 cover-img: /assets/img/keutaman-petrus-gereja-mula-mula.webp
 thumbnail-img: /assets/img/keutaman-petrus-gereja-mula-mula.webp
