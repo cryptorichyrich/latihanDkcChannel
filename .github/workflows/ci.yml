@@ -48,8 +48,7 @@ jobs:
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
 
       - name: Run TinaCMS
-        run: |
-          npx @tinacms/cli@latest init        
+        run: npx @tinacms/cli@latest init --isStatic     
 
       # Step 9: Upload the build artifact for Pages
       - name: Upload artifact
