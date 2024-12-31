@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       });
     },
-    { root: null, threshold: 0.1 } // Adjust threshold as needed
+    { root: null, threshold: 0.0 } // Adjust threshold as needed
   );
 
   // Observe the .intro-header element
