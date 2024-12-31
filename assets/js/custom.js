@@ -4,28 +4,31 @@ document.addEventListener("DOMContentLoaded", () => {
   const introHeader = document.querySelector(".intro-header");
   let isCollapsed = false;
 
-  // Handle TOC collapse/expand when .intro-header is visible
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting && !isCollapsed) {
-          toc.classList.remove("collapsed");
-          isCollapsed = true;
-          console.log("MUNCUL");
-        } else if (!entry.isIntersecting && isCollapsed) {
-          toc.classList.add("collapsed");
-          isCollapsed = false;          
-          console.log("HILANG");
-        }
-      });
-    },
-    { root: null, threshold: 0.0 } // Adjust threshold as needed
-  );
+  // Function to toggle TOC based on .intro-header visibility
+  const toggleTOC = () => {
+    const headerRect = introHeader.getBoundingClientRect();
+    if (headerRect.top < window.innerHeight && headerRect.bottom > 0) {
+      // .intro-header is visible
+      if (!isCollapsed) {
+        toc.classList.remove("collapsed");
+        isCollapsed = true;
+        console.log("MUNCUL");
+      }
+    } else {
+      // .intro-header is not visible
+      if (isCollapsed) {
+        toc.classList.add("collapsed");
+        isCollapsed = false;
+        console.log("HILANG");
+      }
+    }
+  };
 
-  // Observe the .intro-header element
-  if (introHeader) {
-    observer.observe(introHeader);
-  }
+  // Listen to scroll events for dynamic behavior
+  window.addEventListener("scroll", toggleTOC);
+
+  // Initial check on page load
+  toggleTOC();
 
   // Handle click to toggle collapse/expand
   toc.addEventListener("click", (event) => {
