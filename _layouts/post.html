@@ -41,11 +41,16 @@ layout: base
 
       <div>
         <div id="blog-post">
-          <div id="toc">            
+          <div id="toc-container">
+            <div id="toc"></div>
           </div>
-          {{ content }}
+          <div id="toc-detector"></div>
+          <div id="blog-content">
+            {{ content }}
+          </div>
         </div>
       </div>
+      
           
 
       {% if page.tags.size > 0 %}

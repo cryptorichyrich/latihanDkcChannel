@@ -4,6 +4,8 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+html { scroll-behavior: smooth; }
+
 :root {
   /* config file CSS variables */
   --page-col: {{ site.page-col | default: "#FFFFFF" }};
@@ -617,22 +619,22 @@ footer .footer-custom-content {
   margin-right: 0;
 }
 
-.blog-tags a {
-  color: var(--text-col);
-  text-decoration: none;
-  padding: 0 0.3125rem;
-  opacity: 0.8;
-  border: 1px solid transparent;
-  border-radius: 0.1875rem;
-  background-color: red;
-  color:white;
-}
+  .blog-tags a {
+    color: var(--text-col);
+    text-decoration: none;
+    padding: 0 0.3125rem;
+    opacity: 0.8;
+    border: 1px solid transparent;
+    border-radius: 0.1875rem;
+    background-color: red;
+    color:white;
+  }
 
-.blog-tags a:hover {
-  opacity: 1;
-  color: var(--navbar-text-col);
-  border-color: var(--text-col);
-}
+  .blog-tags a:hover {
+    opacity: 1;
+    color: var(--navbar-text-col);
+    border-color: var(--text-col);
+  }
 
 .post-preview .blog-tags {
   margin-top: 0.3125rem;
