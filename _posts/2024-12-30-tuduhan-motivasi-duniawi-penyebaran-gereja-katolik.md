@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/tuduhan-motivasi-duniawi-penyebaran-gereja-katolik.webp
 thumbnail-img: /assets/img/tuduhan-motivasi-duniawi-penyebaran-gereja-katolik.webp
 author: Tim DKC
+excerpt: "Di dunia modern, terutama dalam ranah akademik, sering kali dianggap bahwa para misionaris Katolik dari abad-abad lalu memiliki motivasi tersembunyi. Para sinis, sekularis, dan ateis tidak dapat membayangkan bahwa seseorang akan menghadapi kesulitan besar demi kebaikan jiwa manusia. Mereka cenderung berasumsi bahwa para misionaris tersebut didorong oleh keinginan untuk mendapatkan kekayaan atau memenuhi ambisi kerajaan Eropa. Namun, apakah benar tidak ada yang rela menanggung kesulitan seperti itu hanya karena cinta kepada Tuhan dan sesama?"
 ---
 
 Di dunia modern, terutama dalam ranah akademik, sering kali dianggap bahwa para misionaris Katolik dari abad-abad lalu memiliki motivasi tersembunyi. Para sinis, sekularis, dan ateis tidak dapat membayangkan bahwa seseorang akan menghadapi kesulitan besar demi kebaikan jiwa manusia. Mereka cenderung berasumsi bahwa para misionaris tersebut didorong oleh keinginan untuk mendapatkan kekayaan atau memenuhi ambisi kerajaan Eropa. Namun, apakah benar tidak ada yang rela menanggung kesulitan seperti itu hanya karena cinta kepada Tuhan dan sesama?

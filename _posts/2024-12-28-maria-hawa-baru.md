@@ -8,6 +8,7 @@ comments: true
 cover-img: /assets/img/mary-hawa-baru-classic.webp
 thumbnail-img: /assets/img/mary-hawa-baru-classic.webp
 author: Tim DKC
+
 ---
 
 Apa artinya memberitakan Maria sebagai Hawa Baru? Para penulis Kristen abad kedua dengan mudah memberitakan “kematian melalui Hawa, kehidupan melalui Maria” (Baca St. Justin Martyr dan Irenaeus).

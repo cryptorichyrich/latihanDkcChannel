@@ -7,6 +7,9 @@ comments: true
 cover-img: /assets/img/bunda-maria-bukan-tabut-perjanjian-baru.webp
 thumbnail-img: /assets/img/bunda-maria-bukan-tabut-perjanjian-baru.webp
 author: Tim DKC
+excerpt: "A. Mengapa Kita Harus Menghormati Bunda Maria?
+1. Banyak orang non-Katolik kebingungan terkait penghormatan kita (umat Katolik) kepada Bunda Maria, yang menurut mereka adalah sosok perempuan biasa yang “secara kebetulan” mendapat tugas dari Allah melahirkan seorang penyelamat dunia. Benarkah pemahaman ini?
+2. Maria adalah seorang gadis Yahudi yang di usia belasan menjadi Bunda Yesus. Maria lahir di kota Sepphoris, sebelah utara Palestina, ibukota Galilea, sebuah kota besar dimana orang Yahudi dan Romawi hidup damai. Kota ini hancur dilanda gempa bumi ketika Maria masih kanak-kanak, yang kemudian pindah ke Nazareth, sebuah dusun kecil berpenduduk hanya 150 – 300 orang. Nazareth "
 toc: true
 ---
 

@@ -8,6 +8,7 @@ comments: true
 cover-img: /assets/img/kenapa-25-desember.webp
 thumbnail-img: /assets/img/kenapa-25-desember.webp
 author: Tim DKC
+
 ---
 
 

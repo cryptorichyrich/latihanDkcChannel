@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/maria-gereja-awal-dan-sekarang.webp
 thumbnail-img: /assets/img/maria-gereja-awal-dan-sekarang.webp
 author: Tim DKC
+
 ---
 
 Kami berbincang-bincang hebat tentang Yesus dan iman dengan seorang Kristen lainnya. Kemudian kami menyebutkan Maria. Rasa dingin menyelimuti percakapan itu dan dia berkata, "Saya tidak berdoa kepada orang mati."

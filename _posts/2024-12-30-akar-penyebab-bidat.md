@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/root-problem-heresy.webp
 thumbnail-img: /assets/img/root-problem-heresy.webp
 author: Tim DKC
+
 ---
 
 

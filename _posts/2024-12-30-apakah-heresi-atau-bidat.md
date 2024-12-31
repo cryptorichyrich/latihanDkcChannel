@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/sect-heretic-bidat.webp
 thumbnail-img: /assets/img/sect-heretic-bidat.webp
 author: Tim DKC
+
 ---
 
 **Heresi** merupakan ajaran sesat yang berlawanan dengan iman Katolik ortodoks. Istilah "ortodoks" di sini, dengan huruf kecil "o," mengacu pada ajaran tradisional Gereja Katolik, bukan Gereja Ortodoks dengan huruf besar "O" yang tidak berada dalam persekutuan dengan Gereja Katolik Roma (yang mengakui kepausan sebagai pusat otoritas). Heresi sering muncul dari distorsi, penyalahgunaan, atau kesalahpahaman terhadap doktrin Katolik yang benar. Misalnya, Islam mengakui doktrin Katolik tentang kemahakuasaan Allah, tetapi menolak Tritunggal Mahakudus dan keilahian Yesus Kristus.

@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.webp
 thumbnail-img: /assets/img/luve-dkc-maria-sebagai-hawa-yang-baru.webp
 author: Tim DKC
+
 toc: true
 ---
 

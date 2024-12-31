@@ -7,6 +7,8 @@ comments: true
 cover-img: /assets/img/10-alasan-bunda-maria.webp
 thumbnail-img: /assets/img/10-alasan-bunda-maria.webp
 author: Tim DKC
+excerpt: "Kaum Evangelis dan Protestan arus utama dapat mengasihi Maria dan berdoa bersamanya. Berikut alasannya.
+"
 ---
 
 Kaum Evangelis dan Protestan arus utama dapat mengasihi Maria dan berdoa bersamanya. Berikut alasannya.

@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/maria-di-dalam-alkitab.webp
 thumbnail-img: /assets/img/maria-di-dalam-alkitab.webp
 author: Tim DKC
+excerpt: "Referensi Alkitab tentang Maria memperjelas bahwa peran khususnya praktis berakhir dengan kelahiran Yesus. Ia ada dalam bingkai karena Yesus ada, bukan karena ia adalah apa yang diyakini oleh Katolik Roma. Para penulis Injil tampaknya tidak terlalu tertarik padanya setelah ini...Mencari begitu banyak hal dari referensi yang sedikit dan kecil seperti itu benar-benar tampak seolah-olah Anda sedang berusaha mencari-cari alasan."
 ---
 
 Kami mendapat email dari seorang Evangelis yang bermaksud baik yang mengatakan:

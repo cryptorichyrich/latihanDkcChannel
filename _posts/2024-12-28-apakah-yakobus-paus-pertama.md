@@ -8,6 +8,7 @@ comments: true
 cover-img: /assets/img/yakobus-pauskah.webp
 thumbnail-img: /assets/img/yakobus-pauskah.webp
 author: Tim DKC
+
 ---
 
 Tidak ada bukti alkitabiah tentang perebutan kekuasaan antara St. Yakobus (Uskup Yerusalem) dan St. Petrus.

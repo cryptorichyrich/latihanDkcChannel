@@ -5,6 +5,7 @@ tags: [Bidat, Dogma, Katolik, sejarah]
 cover-img: /assets/img/great-heresy.webp
 thumbnail-img: /assets/img/great-heresy.webp
 author: Tim DKC
+
 ---
 Sejak awal Kekristenan, Gereja telah diserang oleh mereka yang memperkenalkan ajaran-ajaran palsu, atau ajaran sesat.
 

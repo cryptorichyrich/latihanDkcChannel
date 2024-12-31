@@ -7,6 +7,7 @@ comments: true
 cover-img: /assets/img/petrus-batu.webp
 thumbnail-img: /assets/img/petrus-batu.webp
 author: Tim DKC
+
 ---
 
 Beberapa tahun yang lalu, sebelum saya benar-benar tertarik membaca Alkitab, saya mencoba menghindari misionaris yang datang ke rumah. Tentu, saya punya Alkitab, tetapi saya tidak banyak membukanya; jadi saya tidak banyak bicara tentang Alkitab ketika misionaris menyudutkan saya. Saya tidak tahu ayat mana yang harus saya rujuk ketika menjelaskan posisi Katolik.

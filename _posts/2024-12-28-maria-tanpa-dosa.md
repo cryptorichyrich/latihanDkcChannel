@@ -8,6 +8,7 @@ comments: true
 cover-img: /assets/img/mary-tidak-berdosa.webp
 thumbnail-img: /assets/img/mary-tidak-berdosa.webp
 author: Tim DKC
+
 ---
 
 Saya tidak akan pernah lupa, beberapa tahun yang lalu, ketika saya ditanya pertanyaan ini di _Catholic Answers Live_ oleh seorang anak laki-laki berusia sembilan tahun: "Jika Maria harus tanpa dosa agar ia dapat mengandung Yesus di dalam rahimnya, bagaimana mungkin Yesus dapat datang ke dunia yang penuh dengan dosa?" Itu pertanyaan yang cukup berat, datang dari seorang anak berusia sembilan tahun!

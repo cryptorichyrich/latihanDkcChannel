@@ -8,6 +8,7 @@ cover-img: /assets/img/suksesi-apostolik.webp
 thumbnail-img: /assets/img/suksesi-apostolik.webp
 author: Tim DKC
 toc: true
+excerpt: "Suksesi Apostolik  adalah garis keturunan/suksesi para uskup mulai dari para rasul. Dia memainkan beberapa peran penting, salah satunya adalah mengawal Tradisi apostolik, seperti yang diungkapkan dalam petunjuk St. Paulus kepada Timotius, “Apa yang telah engkau dengar dari padaku di depan banyak saksi, percayakanlah itu kepada orang-orang yang dapat dipercayai, yang juga cakap mengajar orang lain” (2 Tim 2:2). Di sini ia mengacu pada empat generasi pertama masa kerasulan suksesi – generasinya sendiri, generasi Timotius, generasi yang akan diajar Timotius, dan generasi yang akan mereka ajar. Tentu saja, Paulus tidak membayangkan suksesi ini akan berakhir di sana, tetapi akan terus berlanjut selama dunia ini masih ada."
 ---
 
 ## Introduksi
