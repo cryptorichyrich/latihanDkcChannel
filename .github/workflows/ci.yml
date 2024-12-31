@@ -41,11 +41,15 @@ jobs:
           echo "---" > _config_ci.yml
           echo "baseurl: ${{ steps.configure-pages.outputs.base_path }}" >> _config_ci.yml
 
-      # Step 8: Build the Jekyll site
+      # Step 8: Build the Jekyll site and run TinaCMS
       - name: Build site
         env:
           JEKYLL_ENV: production
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
+
+      - name: Run TinaCMS
+        run: |
+          npx @tinacms/cli@latest init        
 
       # Step 9: Upload the build artifact for Pages
       - name: Upload artifact
