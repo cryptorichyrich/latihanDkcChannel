@@ -119,8 +119,9 @@ iframe {
   right: 10px;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 12px;
+  font-size: 30px;
   content: "+"; /* Down arrow */
+  font-weight:bold;
   }
 
   #toc a.active {
