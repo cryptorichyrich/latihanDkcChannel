@@ -6,7 +6,7 @@ title: "HANYA ALKITAB-KAH SUMBER IMAN KITA?"
 
 subtitle: "Yesus mengecam orang-orang Yahudi yang mau menyelidiki Kitab Suci untuk mendapatkan kehidupan, tetapi nyatanya mereka tidak mampu percaya kepada Yesus, yang adalah ″Jalan, Kebenaran dan Kehidupan.″"
 
-tags: [Katolik, Doa, Sejarah]
+tags: [Katolik, katekese, Sejarah]
 
 comments: true
 
