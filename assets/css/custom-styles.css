@@ -29,9 +29,12 @@
   }
   
   .article-content {
-    flex: 2;
+    flex: 2;    
   }
   
+  .emas{
+    color: var(--hover-col);
+  }
   .article-link {
     text-decoration: none;
     font-size: 1.2rem;
@@ -50,7 +53,7 @@
   }
   
   .article-thumbnail img {
-    max-width: 80px; /* Adjust the size */
+    max-width: auto; /* Adjust the size */
     height: auto;
     border-radius: 4px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);

@@ -79,7 +79,7 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      <h2 class="articles-header">More Articles</h2>
+      <h2 class="articles-header">Artikel Lainnya</h2>
       <ul class="articles-list">
         {% for post in site.related_posts %}
           {%- capture thumbnail -%}
@@ -94,9 +94,12 @@ layout: base
             {% endif %}
           {% endcapture %}
           {% assign thumbnail = thumbnail | strip %}
-          <li class="article-item">
+          <li class="article-item"><a href="{{ post.url }}" class="article-link">
             <div class="article-content">
-              <a href="{{ post.url }}" class="article-link">{{ post.title }}</a>
+              <a href="{{ post.url }}" class="article-link"><h3>{{ post.title }}</h3></a>
+              {% assign word_count = post.content | strip_html | replace: "\n", " " | split: " " | size %}
+              {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
+                <div class="article-content text-white"><strong>{{ reading_time }} menit bacaan</strong></div>
             </div>
             {% if thumbnail != "" %}
               <div class="article-thumbnail">
@@ -105,6 +108,7 @@ layout: base
                 </a>
               </div>
             {% endif %}
+          </a>
           </li>
         {% endfor %}
       </ul>           
