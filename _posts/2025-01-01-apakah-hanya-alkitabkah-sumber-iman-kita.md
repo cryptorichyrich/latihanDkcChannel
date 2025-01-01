@@ -23,7 +23,7 @@ penulis-asli: "Mgr Pidyarto OCarm"
 judul-asli: "HANYA ALKITAB-KAH SUMBER IMAN KITA?"
 ---
 # HANYA ALKITAB-KAH SUMBER IMAN KITA?  
-**Romo Pidyarto OCarm**
+**Mgr Pidyarto OCarm**
 
 ## Tradisi dan Alkitab
 
