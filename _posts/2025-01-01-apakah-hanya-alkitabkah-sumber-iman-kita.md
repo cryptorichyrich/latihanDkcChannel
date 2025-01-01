@@ -18,7 +18,9 @@ author: Mgr. Pidyarto, O.Carm
 
 excerpt: "Sering ditanyakan oleh orang-orang kristen fundamentalis: ＂Mengapa Gereja Katolik percaya kepada kenaikkan Maria ke surga, kepada Maria yang mengandung tanpa noda?＂, dan sebagainya. Kesukaran yang mereka ajukan ialah: ＂Bukanlah semuanya itu tidak tertulis dalam Alkitab?＂ Jadi, banyak hal yang menurut mereka tidak tertulis secara jelas dalam Alkitab tidak dapat dibenarkan atau bahkan bertentangan dengan Alkitab. Bagaiman jawaban Gereja Katolik?
 "
-
+sumber: "https://www.imankatolik.or.id/hanya_alkitabkah_sumber_iman_kita.html"
+penulis-asli: "Mgr Pidyarto OCarm"
+judul-asli: "HANYA ALKITAB-KAH SUMBER IMAN KITA?"
 ---
 # HANYA ALKITAB-KAH SUMBER IMAN KITA?  
 **Romo Pidyarto OCarm**
