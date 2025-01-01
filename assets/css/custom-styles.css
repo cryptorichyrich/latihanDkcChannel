@@ -62,7 +62,7 @@
 
   .page-subheading{
     color:var(--hover-col);
-    font-weight: bold !important;
+    font-weight: bolder !important;
   }
 
   #search-results-container a{
