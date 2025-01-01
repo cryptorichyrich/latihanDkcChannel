@@ -56,7 +56,7 @@ Sebenarnya, Santo Yudas Thadeus adalah seorang rasul setia dan penuh kasih yang 
 
   
 
-Menurut tradisi, Santo Yudas adalah sepupu Yesus karena ibunya, Maria, adalah sepupu Maria ibu Yesus. Ayahnya, Kleopas, juga mati sebagai martir.
+Menurut tradisi, Santo Yudas adalah **sepupu Yesus karena ibunya, Maria, adalah sepupu Maria ibu Yesus. Ayahnya, Kleopas**, juga mati sebagai martir.
 
   
 
