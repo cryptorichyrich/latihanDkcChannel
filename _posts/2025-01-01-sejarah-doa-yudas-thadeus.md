@@ -64,7 +64,7 @@ Setelah kebangkitan Yesus, Santo Yudas Thadeus menjadi penginjil aktif di Mesopo
 
   
 
-Hari rayanya dirayakan pada 28 Oktober oleh Gereja Katolik. Simbolnya adalah gambar wajah Yesus di tangannya, merujuk pada tradisi membawa kain suci kepada Raja Abgar dari Edessa. Sejak itu, Santo Yudas dikenal sebagai "pelindung dari perkara-perkara mustahil."
+Hari rayanya dirayakan pada 28 Oktober oleh Gereja Katolik. Simbolnya adalah gambar wajah Yesus di tangannya, merujuk pada tradisi membawa kain suci kepada Raja Abgar dari Edessa. Sejak itu, Santo Yudas dikenal sebagai **"pelindung dari perkara-perkara mustahil."**
 
   
 
