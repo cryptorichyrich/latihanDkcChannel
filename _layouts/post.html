@@ -94,21 +94,22 @@ layout: base
             {% endif %}
           {% endcapture %}
           {% assign thumbnail = thumbnail | strip %}
-          <li class="article-item"><a href="{{ post.url }}" class="article-link">
-            <div class="article-content">
-              <a href="{{ post.url }}" class="article-link"><h3>{{ post.title }}</h3></a>
-              {% assign word_count = post.content | strip_html | replace: "\n", " " | split: " " | size %}
-              {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
-                <div class="article-content text-white"><strong>{{ reading_time }} menit bacaan</strong></div>
-            </div>
-            {% if thumbnail != "" %}
-              <div class="article-thumbnail">
-                <a href="{{ post.url | absolute_url | force_https }}" aria-label="Thumbnail">
-                  <img src="{{ thumbnail | absolute_url | force_https }}" alt="Post thumbnail">
-                </a>
+          <li class="article-item">
+            <a href="{{ post.url }}" class="article-link" aria-label="{{ post.title }}">
+              <div class="article-content">
+                <a href="{{ post.url }}" class="article-link"><h3>{{ post.title }}</h3></a>
+                {% assign word_count = post.content | strip_html | replace: "\n", " " | split: " " | size %}
+                {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
+                  <div class="article-content text-white"><strong>{{ reading_time }} menit bacaan</strong></div>
               </div>
-            {% endif %}
-          </a>
+              {% if thumbnail != "" %}
+                <div class="article-thumbnail">
+                  <a href="{{ post.url | absolute_url | force_https }}" aria-label="Thumbnail">
+                    <img src="{{ thumbnail | absolute_url | force_https }}" alt="Post thumbnail">
+                  </a>
+                </div>
+              {% endif %}
+            </a>
           </li>
         {% endfor %}
       </ul>           
