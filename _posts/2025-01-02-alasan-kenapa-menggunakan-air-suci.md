@@ -68,7 +68,7 @@ Saat membuat tanda salib dengan air suci, kita memperbarui janji baptisan untuk 
 
 ---
 
-## Kesaksian Santo Teresa dari Avila  
+## Kesaksian Santa Teresa dari Avila  
 
 St. Teresa dari Avila menulis dalam *The Book of Her Life* tentang kekuatan air suci:  
 > *"Suatu ketika setan menampakkan diri dalam wujud yang mengerikan. Aku merasa ketakutan dan memberkati diriku. Ia menghilang, tetapi segera kembali. Saat itu, aku mengambil air suci dan melemparkannya ke arahnya. Ia tidak pernah kembali lagi."*  
