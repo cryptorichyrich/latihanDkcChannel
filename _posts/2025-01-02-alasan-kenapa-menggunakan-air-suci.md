@@ -47,8 +47,8 @@ Komunitas Qumran, yang membuat gulungan Laut Mati, juga menggunakan kolam penyuc
 ## Air Suci dalam Tradisi Katolik  
 
 ### 1. **Tanda Pertobatan atas Dosa**  
-Air suci melambangkan pertobatan atas dosa, seperti yang dijelaskan dalam Mazmur 50:  
-> *"Bersihkanlah aku dari dosa dengan hisop agar aku disucikan; basuhlah aku, dan aku akan menjadi lebih putih dari salju"* (Mazmur 50:9).  
+Air suci melambangkan pertobatan atas dosa, seperti yang dijelaskan dalam Mazmur 51:  
+> *"Bersihkanlah aku dari dosa dengan hisop agar aku disucikan; basuhlah aku, dan aku akan menjadi lebih putih dari salju"* (Mazmur 51:7).  
 
 **(Hisop adalah semak kecil yang digunakan untuk memercikkan air)**
 
