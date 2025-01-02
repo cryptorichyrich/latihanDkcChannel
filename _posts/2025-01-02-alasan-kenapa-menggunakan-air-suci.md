@@ -1,27 +1,17 @@
 ---
-
 layout: post
-
 title: "Alasan Kenapa Menggunakan Air Suci"
-
+date: 2025-01-02 01:00:00
 subtitle: "Kita juga memiliki kolam yang diisi dengan air suci untuk berkat karena tiga alasan: sebagai tanda pertobatan atas dosa, untuk perlindungan dari kejahatan, dan sebagai pengingat akan Baptisan kita."
-
 tags: [Alkitab, Refleksi, Sejarah]
-
 comments: true
-
 cover-img: /assets/img/holy-water.webp
-
 thumbnail-img: /assets/img/holy-water.webp
-
 author: Tim DKC
-
 excerpt: "Secara tradisional, kita meletakkan tempat air suci di dekat pintu masuk gereja kita. Penempatan dan penggunaan ini sebenarnya sesuai dengan praktik penyucian Yahudi di Perjanjian Lama: Kitab Imamat menetapkan berbagai ritual penyucian menggunakan air untuk menghilangkan 'kenajisan' yang terkait, misalnya, dengan bersentuhan dengan mayat, menstruasi, melahirkan, atau kusta (lih. Im 12-15)."
-
 sumber: "https://catholicexchange.com/why-use-holy-water/"
 penulis-asli: "Fr. William Saunders"
 judul-asli: "Why Holy Water?"
-
 ---
 
 # Mengapa Kita Menggunakan Air Suci di Gereja?
