@@ -96,7 +96,7 @@ layout: page
       {% endif %}
 
       {% assign word_count = post.content | strip_html | replace: "\n", " " | split: " " | size %}
-      {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
+      {% assign reading_time = word_count | divided_by: site.reading_speed | ceil | plus: 1 %}      
       
       {% if post.url != "" %}
 

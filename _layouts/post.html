@@ -99,7 +99,7 @@ layout: base
               <div class="article-content">
                 <a href="{{ post.url }}" class="article-link"><h3>{{ post.title }}</h3></a>
                 {% assign word_count = post.content | strip_html | replace: "\n", " " | split: " " | size %}
-                {% assign reading_time = word_count | divided_by: site.reading_speed | ceil %}      
+                {% assign reading_time = word_count | divided_by: site.reading_speed | ceil | plus: 1 %}      
                   <div class="article-content text-white"><strong>{{ reading_time }} menit bacaan</strong></div>
               </div>
               {% if thumbnail != "" %}
