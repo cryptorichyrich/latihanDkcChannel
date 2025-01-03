@@ -50,7 +50,7 @@ Satu hal yang langsung saya perhatikan adalah keraguan di antara umat Katolik un
 
 ## Signifikansi Teologis Nama Yesus
 
-Mengapa nama ini memiliki kuasa seperti itu? Di dunia modern kita, kita tidak terlalu memikirkan nama. Mereka berfungsi, tetapi tidak banyak lagi. Namun di dunia kuno, dipahami bahwa sebuah nama pada dasarnya mewakili orang tersebut, dan mengetahui nama seseorang memberi Anda beberapa tingkat kendali atas orang itu—kemampuan untuk *memanggil* orang itu.
+Mengapa nama ini memiliki kuasa seperti itu? Di dunia modern kita, kita tidak terlalu memikirkan nama. Nama hanya sebatas panggilan/kegunaanyna saja, tetapi tidak lebih dari itu. Namun di dunia kuno, dipahami bahwa sebuah nama pada dasarnya mewakili orang tersebut, dan mengetahui nama seseorang memberi Anda beberapa tingkat kendali atas orang itu—kemampuan untuk *memanggil* orang itu.
 
 ## Nama Yesus dalam Penginjilan
 
