@@ -50,13 +50,17 @@ Satu hal yang langsung saya perhatikan adalah keraguan di antara umat Katolik un
 
 ## Signifikansi Teologis Nama Yesus
 
-Mengapa nama ini memiliki kuasa seperti itu? Di dunia modern kita, kita tidak terlalu memikirkan nama. Nama hanya sebatas panggilan/kegunaanyna saja, tetapi tidak lebih dari itu. Namun di dunia kuno, dipahami bahwa sebuah nama pada dasarnya mewakili orang tersebut, dan mengetahui nama seseorang memberi Anda beberapa tingkat kendali atas orang itu—kemampuan untuk *memanggil* orang itu.
+Mengapa nama ini memiliki kekuatan seperti itu? Di dunia modern kita, kita tidak terlalu memikirkan nama. dizaman ini nama memang fungsional, tidak lebih dari itu. Namun di dunia kuno, dipahami bahwa nama pada dasarnya mewakili orang tersebut, dan mengetahui nama seseorang memberi Anda beberapa tingkat kendali/kuasa atas orang tersebut—kemampuan untuk memanggil orang tersebut. Inilah sebabnya, ketika ditanya oleh Musa tentang namanya, Tuhan hanya menjawab, "Aku adalah Aku" (Keluaran 3:14). Tidak seperti dewa-dewa kafir, satu-satunya Tuhan yang benar tidak selalu siap sedia mengikuti perintah manusia. Dia memegang kendali penuh.
 
 ## Nama Yesus dalam Penginjilan
 
-**Nama Yesus sangat erat kaitannya dengan keselamatan.** Petrus berkata bahwa nama itu adalah satu-satunya nama yang dapat menyelamatkan kita. Bahkan, Nama Yesus berarti "Yahweh adalah keselamatan." Jadi, Nama Yesus memiliki peran utama dalam penginjilan.
+**Nama Yesus sangat erat kaitannya dengan keselamatan.** Petrus berkata bahwa nama itu adalah satu-satunya nama yang dapat menyelamatkan kita. Bahkan, nama itu berarti "Yahweh adalah keselamatan." Jadi, nama itu memiliki peran utama dalam penginjilan. Akan tetapi, banyak dari kita menghindari nama Yesus ketika berbicara dengan orang lain. Kita takut jika kita terlalu sering menyebut nama itu, kita akan terlihat seperti orang yang gila agama. Kita takut kita akan digolongkan sebagai salah satu dari "orang-orang itu." Namun, kita perlu menggunakan kembali nama Yesus dan menggunakannya ketika berbicara dengan orang lain tentang Katolikisme.
+
+Menggunakan nama Yesus mengingatkan orang lain tentang poin penting: berpindah agama (atau kembali) ke Katolikisme bukan sekadar masalah menerima serangkaian doktrin. Sebaliknya, pada dasarnya, ini tentang menyerahkan hidup Anda kepada seseorang, Yesus Kristus. Paus Benediktus XVI menulis, **"Menjadi orang Kristen bukanlah hasil dari pilihan etis atau ide yang luhur, tetapi perjumpaan dengan suatu peristiwa, seseorang, yang memberi kehidupan cakrawala baru dan arah yang menentukan."** Menggunakan nama Yesus membuat "perjumpaan dengan seseorang" ini menjadi nyata. Tidak ada yang lebih personal daripada nama seseorang.
 
 ## Aplikasi Praktis
+
+Lebih jauh lagi, ketika berbicara dengan kaum Evangelis, menggunakan nama Yesus dapat memiliki efek praktis. Ketika Anda mengucapkan nama itu, Anda berbicara dalam bahasa mereka. Saya memperhatikan hal ini ketika saya menggunakan nama Yesus ketika menggambarkan iman Katolik saya. Saya mungkin berkata, "Yesus mengampuni dosa-dosa saya dalam Pengakuan Dosa," atau, "Puncak minggu saya adalah ketika saya menerima Yesus pada Minggu pagi dalam Misa." Ini bukanlah yang mereka harapkan dari seorang Katolik! Dengan menjelaskan bahwa saya memiliki hubungan dengan Yesus, kaum Evangelis mulai melihat bahwa Katolik bukanlah agama asing yang sebagian besar terdiri dari aturan dan orang-orang dengan topi-topian lucu. Hal ini mendobrak hambatan bagi mereka untuk mempelajari lebih lanjut tentang iman Katolik.
 
 Menggunakan Nama Yesus mengingatkan orang lain tentang poin penting: ****berpindah agama (atau kembali) ke Katolik** bukan sekadar masalah menerima serangkaian doktrin. Sebaliknya, pada dasarnya, ini tentang **menyerahkan hidup Anda kepada seseorang, Yesus Kristus**.
 
