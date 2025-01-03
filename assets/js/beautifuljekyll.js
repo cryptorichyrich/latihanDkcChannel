@@ -68,7 +68,9 @@ let BeautifulJekyllJS = {
         if (!heading.id) {
           heading.id = `heading-${index}`;
         }
-  
+        else{
+          heading.id = `section-${heading.id}`;
+        }
         // Create list item with link
         const listItem = document.createElement('li');
         

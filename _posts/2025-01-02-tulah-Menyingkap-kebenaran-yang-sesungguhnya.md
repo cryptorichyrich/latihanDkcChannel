@@ -3,7 +3,7 @@
 layout: post
 
 title: "Tulah: Menyingkap Kebenaran yang Sesungguhnyan"
-
+date: 2025-01-03 14:00:00
 subtitle: "Tulah-tulah tersebut juga menghancurkan mitos bahwa orang Mesir dapat mengendalikan alam. Peradaban Mesir Kuno didirikan atas dasar bahwa alam dapat dimanipulasi—melalui sistem kanal dan praktik pertanian yang sangat maju, masyarakat dapat berkembang di padang pasir. Tulah-tulah tersebut mengungkapkan bahwa kendali orang Mesir atas alam hanyalah ilusi."
 
 tags: [Alkitab, Refleksi, Sejarah]
@@ -18,7 +18,7 @@ author: Tim DKC
 
 excerpt: "Tulah memiliki cara untuk menyingkirkan apa yang berlebihan, menyingkapkan kebenaran yang sebenarnya.
 
-Dalam kisah Alkitab tentang tulah yang menghancurkan Mesir, tulah tersebut menyingkapkan dewa-dewa palsu peradaban tersebut dan ketidakberdayaan mereka di hadapan satu-satunya Tuhan yang benar (lihat Keluaran 7 hingga 11).n."
+Dalam kisah Alkitab tentang tulah yang menghancurkan Mesir, tulah tersebut menyingkapkan dewa-dewa palsu peradaban tersebut dan ketidakberdayaan mereka di hadapan satu-satunya Tuhan yang benar (lihat Keluaran 7 hingga 11)."
 
 sumber: "https://catholicexchange.com/how-the-plagues-of-egypt-exposed-false-gods-revealed-the-truth/"
 penulis-asli: "Stephen Beale"
