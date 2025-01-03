@@ -75,7 +75,7 @@ Paus ketiga (setelah Petrus) yang disebutkan Irenaeus adalah Paus St. Clement, y
 
 Motivasi surat itu, seperti yang dikatakan Clement, adalah "pemberontakan yang memalukan dan menjijikkan" di mana sekelompok orang Korintus menolak untuk tunduk kepada para penatua (imam) mereka yang sah. Dalam menanggapi hal ini, Clement mengingatkan mereka tentang asal usul apostolik dari struktur Gereja, dengan membandingkan para uskup, penatua, dan diaken Gereja dengan para imam besar, imam, dan orang Lewi di Israel kuno. Seperti yang dicatat oleh Clement, bahkan para rasul yang diutus oleh Kristus, dan Kristus yang diutus oleh Allah Bapa, adalah "pengangkatan" yang "dibuat dengan cara yang teratur, sesuai dengan kehendak Allah."
 
-Maknanya jelas: orang-orang tidak memilih Yesus sebagai Mesias, mereka tidak dapat memilih para rasul-Nya, dan bukan hak mereka untuk memutuskan apakah akan menaati para uskup yang bertindak sebagai penerus para rasul tersebut atau tidak. Dengan demikian, pihak-pihak yang suka menghasut perlu kembali menaati para pendeta yang ditahbiskan secara sah.
+Maknanya jelas: orang-orang tidak memilih Yesus sebagai Mesias, mereka tidak dapat memilih para rasul-Nya, dan bukan hak mereka untuk memutuskan apakah akan menaati para uskup yang bertindak sebagai penerus para rasul tersebut atau tidak. Dengan demikian, pihak-pihak yang suka menghasut perlu kembali menaati para imam yang ditahbiskan secara sah.
 
 
 Penekanan pada struktur
@@ -87,7 +87,7 @@ Ia berbicara tentang struktur Gereja sebagai sesuatu yang ditetapkan oleh Kristu
 
 Perlu juga diperhatikan bahwa Clement terlibat dalam situasi ini sama sekali. Jelas terlihat dari awal suratnya, di mana ia meminta maaf karena "agak terlambat dalam mengalihkan perhatian kami ke pokok-pokok yang Anda tanyakan kepada kami," bahwa sebenarnya jemaat Korintuslah yang menghubungi Clement dan Gereja di Roma. Ini bukan kasus seorang uskup Roma yang suka ikut campur, tetapi jemaat Yunani yang menghubungi uskup Roma untuk menyelesaikan pertikaian internal semata.
 
-Pertimbangkan juga penerimaan surat St. Clement. Jika Gereja mula-mula adalah Protestan, kita mungkin berharap mereka tidak terlalu memperhatikan St. Clement, memperlakukannya hanya sebagai pendeta lain atau sebagai ancaman terhadap ordo apostolik (menurut penalaran George Rutledge—lihat di bawah).
+Pertimbangkan juga penerimaan surat St. Clement. Jika Gereja mula-mula adalah Protestan, kita mungkin berharap mereka tidak terlalu memperhatikan St. Clement, memperlakukannya hanya sebagai imam lain atau sebagai ancaman terhadap ordo apostolik (menurut penalaran George Rutledge—lihat di bawah).
 
 Tetapi itu sama sekali tidak terjadi. Menulis sekitar tiga abad kemudian, St. Jerome mencatat bahwa surat Clement kepada jemaat Korintus "di beberapa tempat dibacakan di depan umum." Artinya, bahkan hingga abad keempat kita menemukan gereja-gereja menggunakan surat Clement secara liturgis di samping Kitab Suci. Dan memang, kita menemukan surat itu disertakan (setelah Kitab Wahyu) dalam manuskrip Alkitab abad kelima yang dikenal sebagai _Codex Alexandrinus_ serta manuskrip Alkitab Yunani dan Koptik kuno lainnya.
 
@@ -115,7 +115,7 @@ Struktur yang diciptakan Kristus adalah struktur yang di dalamnya, sebagai tangg
 Sidebar: St. Yohanes Tidak Punya Masalah dengan Paus
 --------------------------------------------
 
-Yang membuat keterlibatan Paus Clement dalam pertikaian Korintus lebih mengejutkan adalah bahwa hal itu terjadi sekitar tahun 96, saat rasul Yohanes masih hidup. Dalam khotbah anti-Katolik yang penuh warna pada tahun 1914, pendeta George Rutledge menyatakan kepada sekitar 1.500 orang bahwa klaim Katolik atas kepausan tidak mungkin benar karena "rasul Yohanes hidup beberapa tahun setelah kematian Petrus. Namun, Roma menyatakan seorang bernama Linus diangkat menjadi paus saat seorang rasul masih hidup!"
+Yang membuat keterlibatan Paus Clement dalam pertikaian Korintus lebih mengejutkan adalah bahwa hal itu terjadi sekitar tahun 96, saat rasul Yohanes masih hidup. Dalam khotbah anti-Katolik yang penuh warna pada tahun 1914, imam George Rutledge menyatakan kepada sekitar 1.500 orang bahwa klaim Katolik atas kepausan tidak mungkin benar karena "rasul Yohanes hidup beberapa tahun setelah kematian Petrus. Namun, Roma menyatakan seorang bernama Linus diangkat menjadi paus saat seorang rasul masih hidup!"
 
 Rutledge berpendapat bahwa karena para rasul adalah golongan tertinggi dalam Gereja (1 Kor. 12:28), St. Yohanes akan “memiliki keluhan yang wajar dan dapat membuat seluruh urusan menjadi bangkrut.” Namun, surat St. Clement adalah bukti bahwa para penerus St. Petrus memang memainkan peran utama dalam tata kelola Gereja mula-mula, bahkan selama masa hidup rasul Yohanes—dan bahwa Yohanes, sejauh yang tercatat, tidak keberatan.
 
