@@ -58,7 +58,7 @@ Mengapa nama ini memiliki kuasa seperti itu? Di dunia modern kita, kita tidak te
 
 ## Aplikasi Praktis
 
-Menggunakan Nama Yesus mengingatkan orang lain tentang poin penting: berpindah agama (atau kembali) ke Katolikisme bukan sekadar masalah menerima serangkaian doktrin. Sebaliknya, pada dasarnya, ini tentang menyerahkan hidup Anda kepada seseorang, Yesus Kristus.
+Menggunakan Nama Yesus mengingatkan orang lain tentang poin penting: ****berpindah agama (atau kembali) ke Katolik** bukan sekadar masalah menerima serangkaian doktrin. Sebaliknya, pada dasarnya, ini tentang **menyerahkan hidup Anda kepada seseorang, Yesus Kristus**.
 
 ## Kesimpulan
 
