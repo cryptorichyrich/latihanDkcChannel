@@ -4,7 +4,7 @@ layout: post
 
 title: "Kuasa Nama Yesus"
 date: 2025-01-03 01:20:00
-subtitle: "Nama Yesus sangat erat kaitannya dengan keselamatan. Petrus berkata bahwa nama itu adalah satu-satunya nama yang dapat menyelamatkan kita. Bahkan, nama itu berarti ❝Yahweh adalah keselamatan.❞ Jadi, nama itu memiliki peran utama dalam penginjilan.
+subtitle: "Nama Yesus sangat erat kaitannya dengan keselamatan. Petrus berkata bahwa nama itu adalah satu-satunya nama yang dapat menyelamatkan kita. Bahkan, Nama Yesus berarti ❝Yahweh adalah keselamatan.❞ Jadi, Nama Yesus memiliki peran utama dalam penginjilan.
 "
 
 tags: [Alkitab, Refleksi, Sejarah]
@@ -34,11 +34,11 @@ Ketika saya berpindah dari Protestan Evangelis ke Katolik, saya membuat banyak p
 
 ## Perbedaan Budaya dalam Menyebut Nama Yesus
 
-Satu hal yang langsung saya perhatikan adalah keraguan di antara umat Katolik untuk menyebut nama *Yesus*. Di dunia Evangelis saya, kami menyebut Yesus secara teratur. Namun, umat Katolik berbeda. Mereka biasanya tidak berbicara tentang Yesus secara langsung, dan bahkan ketika mereka melakukannya, mereka sering menyebutnya sebagai "Tuhan Kita" atau "Kristus." Saya kemudian menemukan bahwa ini adalah tradisi budaya yang berasal dari *penghormatan* terhadap nama Yesus. Dengan cara yang sama Anda tidak akan menyebut presiden dengan nama depannya, umat Katolik tidak menyebut Tuhan dengan namanya.
+Satu hal yang langsung saya perhatikan adalah keraguan di antara umat Katolik untuk menyebut nama *Yesus*. Di dunia Evangelis saya, kami menyebut Yesus secara teratur. Namun, umat Katolik berbeda. Mereka biasanya tidak berbicara tentang Yesus secara langsung, dan bahkan ketika mereka melakukannya, mereka sering menyebutnya sebagai "Tuhan Kita" atau "Kristus." Saya kemudian menemukan bahwa ini adalah tradisi budaya yang berasal dari *penghormatan* terhadap Nama Yesus. Dengan cara yang sama Anda tidak akan menyebut presiden dengan nama depannya, umat Katolik tidak menyebut Tuhan dengan namanya.
 
 ## Kuasa Nama dalam Alkitab
 
-**Meskipun niatnya baik,** keengganan untuk menggunakan nama Yesus ini memiliki kekurangan—karena nama Yesus memiliki *kuasa*. Kita melihat ini dengan jelas dalam Perjanjian Baru. Pertimbangkan Kisah Para Rasul 4:5-12:
+**Meskipun niatnya baik,** keengganan untuk menggunakan Nama Yesus ini memiliki kekurangan—karena Nama Yesus memiliki *kuasa*. Kita melihat ini dengan jelas dalam Perjanjian Baru. Pertimbangkan Kisah Para Rasul 4:5-12:
 
 > Keesokan harinya pemimpin-pemimpin, tua-tua dan ahli-ahli Taurat berkumpul di Yerusalem, bersama-sama dengan Imam Besar Hanas, Kayafas, Yohanes dan Aleksander, dan semua yang termasuk dalam keluarga Imam Besar. Setelah menempatkan [Petrus dan Yohanes] di tengah-tengah, mereka bertanya, "Dengan kuasa manakah atau dalam nama siapakah kamu bertindak ini?"
 
@@ -54,15 +54,15 @@ Mengapa nama ini memiliki kuasa seperti itu? Di dunia modern kita, kita tidak te
 
 ## Nama Yesus dalam Penginjilan
 
-**Nama Yesus sangat erat kaitannya dengan keselamatan.** Petrus berkata bahwa nama itu adalah satu-satunya nama yang dapat menyelamatkan kita. Bahkan, nama itu berarti "Yahweh adalah keselamatan." Jadi, nama itu memiliki peran utama dalam penginjilan.
+**Nama Yesus sangat erat kaitannya dengan keselamatan.** Petrus berkata bahwa nama itu adalah satu-satunya nama yang dapat menyelamatkan kita. Bahkan, Nama Yesus berarti "Yahweh adalah keselamatan." Jadi, Nama Yesus memiliki peran utama dalam penginjilan.
 
 ## Aplikasi Praktis
 
-Menggunakan nama Yesus mengingatkan orang lain tentang poin penting: berpindah agama (atau kembali) ke Katolikisme bukan sekadar masalah menerima serangkaian doktrin. Sebaliknya, pada dasarnya, ini tentang menyerahkan hidup Anda kepada seseorang, Yesus Kristus.
+Menggunakan Nama Yesus mengingatkan orang lain tentang poin penting: berpindah agama (atau kembali) ke Katolikisme bukan sekadar masalah menerima serangkaian doktrin. Sebaliknya, pada dasarnya, ini tentang menyerahkan hidup Anda kepada seseorang, Yesus Kristus.
 
 ## Kesimpulan
 
-**Menyebut nama Yesus memiliki kuasa—kuasa yang tidak selalu dapat kita lihat atau pahami sepenuhnya.** Seperti yang ditulis oleh St. Paulus:
+**Menyebut Nama Yesus memiliki kuasa—kuasa yang tidak selalu dapat kita lihat atau pahami sepenuhnya.** Seperti yang ditulis oleh St. Paulus:
 
 > Barangsiapa yang berseru kepada nama Tuhan akan diselamatkan" (Rm. 10:13)
 
