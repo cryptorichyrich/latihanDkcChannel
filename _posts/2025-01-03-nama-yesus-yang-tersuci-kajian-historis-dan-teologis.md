@@ -3,7 +3,7 @@
 layout: post
 
 title: "Nama Yesus Yang Tersuci: Sebuah Kajian Historis dan Teologis"
-
+date: 2025-01-03 01:00:00
 subtitle: "Nama “Yesus” memiliki akar etimologis yang dalam pada tradisi Yahudi. Dalam bahasa Ibrani, nama ini berarti “Allah Menyelamatkan” - sebuah proklamasi teologis yang menjadi inti dari misi penyelamatan ilahi. Pemilihan nama ini bukanlah hasil pertimbangan manusiawi atau tradisi keluarga sebagaimana lazimnya dalam budaya Yahudi, di mana nama anak seringkali mencerminkan harapan orangtua atau mengenang leluhur."
 
 tags: [Alkitab, Refleksi, Sejarah]
