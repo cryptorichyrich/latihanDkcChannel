@@ -34,7 +34,7 @@ Ketika saya berpindah dari Protestan Evangelis ke Katolik, saya membuat banyak p
 
 ## Perbedaan Budaya dalam Menyebut Nama Yesus
 
-Satu hal yang langsung saya perhatikan adalah keraguan di antara umat Katolik untuk menyebut nama *Yesus*. Di dunia Evangelis saya, kami menyebut Yesus secara teratur. Namun, umat Katolik berbeda. Mereka biasanya tidak berbicara tentang Yesus secara langsung, dan bahkan ketika mereka melakukannya, mereka sering menyebutnya sebagai "Tuhan Kita" atau "Kristus." Saya kemudian menemukan bahwa ini adalah tradisi budaya yang berasal dari *penghormatan* terhadap Nama Yesus. Dengan cara yang sama Anda tidak akan menyebut presiden dengan nama depannya, umat Katolik tidak menyebut Tuhan dengan namanya.
+Satu hal yang langsung saya perhatikan adalah keraguan di antara umat Katolik untuk menyebut nama *Yesus*. Di dunia Evangelis saya, kami menyebut Yesus secara biasa. Namun, umat Katolik berbeda. Mereka biasanya tidak berbicara tentang Yesus secara langsung, dan bahkan ketika mereka melakukannya, mereka sering menyebutnya sebagai "Tuhan Kita" atau "Kristus." Saya kemudian menemukan bahwa ini adalah tradisi budaya yang berasal dari *penghormatan* terhadap Nama Yesus. Dengan cara yang sama Anda tidak akan menyebut presiden dengan nama depannya, umat Katolik tidak menyebut Tuhan dengan namanya.
 
 ## Kuasa Nama dalam Alkitab
 
